@@ -9,3 +9,4 @@
 | --------                        | --------                          |
 |Matheus Henrick Dutra            |https://github.com/MatheusHenrickSantos|
 |Abdul hannan                     |https://github.com/hannanhunny01|
+|João Lucas Pinto Vas             |https://github.com/HacKairos
