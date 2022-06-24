@@ -33,5 +33,5 @@ Treinamento GitHub | Participar do treinamento oferecido pelo monitor | Toda a e
 Estudo sobre Scrum | Estudar o papel do Scrum pelo material disponibilizado | Toda a equipe
 Estudo do Documento de Arquitetura | Estudar como criar um documento de arquitetura |Hannan
 Template da Issue | Criar um modelo de Issue |Matheus
-Documentar Sprint 1 | Criar um documento detalhando as atividades a serem realizadas na sprint 1 | João Lucas(https://github.com/HacKairos)
+Documentar Sprint 1 | Criar um documento detalhando as atividades a serem realizadas na sprint 1 | [João Lucas](https://github.com/HacKairos)
 Pesquisar trabalhos anteriores | Investigar os trabalhos de equipes de semestres anteriores | Toda a equipe
