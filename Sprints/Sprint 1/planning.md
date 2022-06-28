@@ -13,10 +13,10 @@
 <!-- Papeis que cada membro exerceu durante essa sprint -->
 Papel | Membros
 ----- | -------
-Scrum Master | Indefinido
-Product Owner | Indefinido
-Arquiteto de Software | Indefinido
-Desenvolvedor | Indefinido
+Scrum Master | [João Lucas](https://github.com/HacKairos)
+Product Owner | Matheus
+Arquiteto de Software | Hannan
+Desenvolvedor | Asafe & Gabriel
 
 ## 3. Objetivos da Sprint
 <!-- descrever de forma geral o objetivo da sprint -->
