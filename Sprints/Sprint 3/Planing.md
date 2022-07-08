@@ -20,16 +20,16 @@ Desenvolvedor | Asafe & Gabriel
 
 ## 3. Objetivos da Sprint
 <!-- descrever de forma geral o objetivo da sprint -->
-*Realizar uma votação para a linguagem , framework , Banco de dados.
-*Aprimorar o conhecimentos dos participantes do grupo.
-*Configurar o ambiente para os alunos trabalharem em cima.
+* Apartir de todas as alterações realizadas no projeto, redefinir por completo o funcionamento e a tecnologias ultilizadas no projeto.
+* Aumentar participação dos membros da equipe e incentivar os mesmos a tomar uma posição mais proativa dentro do projeto.
+* Até o fim da sprint 3 construir um ambiente dentro do github para que todos possam baixar e trabalhar com o projeto.
 
 ## 4. Issues
 <!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
 Issues | Descrição | Resposáveis
 ------ | --------- | -----------
-Documentação da sprint 2 | Criar a documentação da primeira semana de projeto. | [João Lucas](https://github.com/HacKairos)
-Configurar o ambiente em todas as maquinas | Configurar o ambiente em suas respectivas maquinas pessoais. | Todos alunos
-Capacitação/Estudo sobre Elixir | Aprender as funcionalidades basicas do Elixir. | Todos alunos
-Capacitação/Estudo do Docker | Aprender as funcionalidades basicas do Docker. | Todos alunos
-Capacitação/Estudo sobre Phoenix | Aprender as funcionalidades basicas do Phoenix. | Todos alunos
+Prototipo de baixa fidelidade | Criação do primeiro prototipo do projeto. | Asafe
+Redefinição de tecnologia | Abrir a oportunidade final para a troca da tecnologia escolhida. | Todos
+Documento de arquitetura | Criação do documento de arquitetura e adição dos diagramas. | Abdul
+Ambientação Presente no github | Acrescentar no readme do repositorio o passo a passo para definir a ambientação do projeto. | Gabriel
+Redefinição dos horarios das reuniões  | Montar uma agenda contendo os horarios de maior disponibilidade para todos os integrantes do grupo. | Todos
