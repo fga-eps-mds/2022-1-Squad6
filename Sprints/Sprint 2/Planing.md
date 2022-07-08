@@ -20,9 +20,9 @@ Desenvolvedor | Asafe & Gabriel
 
 ## 3. Objetivos da Sprint
 <!-- descrever de forma geral o objetivo da sprint -->
-*Realizar uma votação para a linguagem , framework , Banco de dados.
-*Aprimorar o conhecimentos dos participantes do grupo.
-*Configurar o ambiente para os alunos trabalharem em cima.
+* Realizar uma votação para a linguagem , framework , Banco de dados.
+* Aprimorar o conhecimentos dos participantes do grupo.
+* Configurar o ambiente para os alunos trabalharem em cima.
 
 ## 4. Issues
 <!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
