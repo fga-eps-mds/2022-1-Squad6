@@ -13,7 +13,7 @@ Cebaspre tracker é a solução perfeita para estudantes que estao em processo s
 #Passo a passo:
 1. Clonar o repositório
 2. Acessar o caminho /Cebraspe-tracker/project/ctracker
-3. Rodar o comando: sudo docker-compose up
+3. Rodar o comando: sudo docker compose up
 
 ## Disponibilidade 
 ![Screenshot 2022-07-10 205432](https://user-images.githubusercontent.com/57872849/178166947-6c27c88d-fc9b-42d3-9a76-309a89b505e8.png)
