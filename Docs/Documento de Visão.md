@@ -2,10 +2,11 @@
 
 ## Histórico de revisão
 
-| Data        | Versão | Descrição                      | Autor(es)                                                  |
-| ----------- | ------ | ------------------------------ | ---------------------------------------------------------- |
-| 15/jul/2022 | 0.1    | Abertura do documento de Visão | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| 16/jul/2022 | 0.2    | Adição dos tópicos 1, 2 e 3    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| Data       | Versão | Descrição                      | Autor(es)                                                  |
+| ---------- | ------ | ------------------------------ | ---------------------------------------------------------- |
+| 15/07/2022 | 0.1    | Abertura do documento de Visão | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 16/07/2022 | 0.2    | Adição dos tópicos 1, 2 e 3    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 17/07/2022 | 0.3    | Adição dos tópicos 4, 5 e 6    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 
 ## 1. Introdução
 
@@ -89,6 +90,64 @@ Os usuários poderão utilizar a aplicação por meio de navegadores web.
 | Interessados em ingressar na universidade | Estudantes em processo seletivo | Cadastrar-se na plataforma | Ser notificado de que seu nome consta na lista de chamada | Baixo |
 
 ## 4. Visão Geral do Produto
+
+### 4.1 Perspectiva do Produto
+
+O Projeto visa ser um facilitador do uso da plataforma do Cebraspe, dando segurança e praticidade aos alunos que estão à espera de uma chamada em processos seletivos. Para isso será utilizado a lista que será disponibilizada pelo próprio site, para que se possa realizar uma busca pelo nome de forma automatizada e notificar o usuário via e-mail.
+
+### 4.2 Resumo das capacidades
+
+| Benefício para o Usuário | Recursos de suporte |
+| ------------------------ | ------------------- |
+| Facilidade em se cadastrar | A aplicação disponibiliza uma interface com um campo para preenchimento do nome e outro para o e-mail, o usuário não terá a necessidade de criar uma conta |
+| Segurança na busca pelo nome | A aplicação notificará o estudante em caso deste ser chamado em um processo seletivo |
+
+### 4.3 Funções do Produto
+
+O projeto está encarregado de notificar o usuário caso o nome conste na lista de chamada, dando segurança e acabando com a necessidade de uma busca manual.
+
+### 4.4 Suposições e dependências
+
+- O usuário deverá ter um meio de se conectar à internet para acessar a aplicação.
+- O usuário deverá ter um e-mail cadastrado na plataforma.
+
 ## 5. Recursos do Produto
+
+Os usuários interessados no projeto terão acesso ao seguinte recurso:
+- Ser notificado via e-mail, caso seja chamado.
+
 ## 6. Restrições
+
+Listagem de restrições externas e outras dependências:
+
+- Ter um computador.
+- Ter conexão à internet.
+- Ter um e-mail cadastrado.
+
+### 6.1 Restrições de Implementação
+
+O sistema será implementado utilizando algumas tecnologias, sendo elas Docker, webcrawler, django, djangorest e react.
+
+### 6.2 Restrições externas
+
+Dentre as restrições externas as que mais irão influenciar são a falta de experiência com as tecnologias, além de possíveis transtornos entre a equipe de desenvolvimento.
+
+### 6.3 Restrições de Design
+
+Toda a interação com o software deve ocorrer de forma a não causar dúvida no usuário. Para isso será necessário apenas um informe do nome e e-mail.
+
+### 6.4 Restrições de Confiabilidade
+
+Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedores tem o comprometimento de manter uma cobertura de testes mínima de 90%.
+
 ## 7. Requisitos do Produto
+
+### 7.1 Requisitos funcionais
+
+| Identificador | Requisito | Prioridade |
+| ------------- | --------- | ---------- |
+
+### 7.2 Requisitos não-funcionais
+
+| Identificador | Requisito | Prioridade |
+| ------------- | --------- | ---------- |
