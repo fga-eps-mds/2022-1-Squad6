@@ -126,7 +126,7 @@ Listagem de restrições externas e outras dependências:
 
 ### 6.1 Restrições de Implementação
 
-O sistema será implementado utilizando algumas tecnologias, sendo elas Docker, webcrawler, django, djangorest e react.
+O sistema será implementado utilizando algumas tecnologias, sendo elas Docker, webcrawler, python, lua script, django, djangorest, react, cloud.
 
 ### 6.2 Restrições externas
 
