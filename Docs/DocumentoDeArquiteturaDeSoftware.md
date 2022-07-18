@@ -28,11 +28,12 @@
 
 1. ### _**FINALIDADE**_
 
-   Este documento oferece uma visão geral da arquitetura abrangente do sistema, usando diversas visões arquitetônicas para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões ao sistema significativo que foram tomadas em relação ao projeto sobre a carteira digital.
+   Cebraspe Tracker é uma funcionalidade a qual vai funcionar em uma pagina web e é baseada em web crawler. O site vai ser criado com intuito de ajudar estudantes que estão em processo seletivo, mais especificamente o PAS pois o mesmo acaba tendo varias chamadas e muitos alunos acabam perdendo sua vaga, por isso o Cebraspe Tracker vai ajudar essas pessoas, as pessoas ao se cadastrarem no site elas seriam informados via email e whatsapp caso fossem aprovadas..
 
 2. ### _**ESCOPO**_
 
-   Esse documento serve de guia para outros objetivos de construção software em questão, a partir de um projeto desenvolvido envolvendo outros softwares e plataformas possíveis, a documentos possíveis da construção do projeto, onde é possível ter uma visão de cada tema.
+   Cebaspre tracker é a solução perfeita para estudantes que estao em processo seletivo tanto pra ajudar as pessoas que perdem sua vaga por falta de entendiento sobre o processo seletivo tanto quanto as pessoas que sofrem de uma ansiedade pesada, para poder tranquiliza-las e tirar das costas dessas pessoas o peso de ficar atualizando todos os dias a pagina do concurso público PAS.
+
 
 3. ### _**CONFIGURAÇÕES, ACRÔNIMOS E ABREVIAÇÕES**_
 
