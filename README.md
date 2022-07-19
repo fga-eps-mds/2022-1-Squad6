@@ -10,7 +10,7 @@ Cebraspe Tracker é uma funcionalidade a qual vai funcionar em uma pagina web e 
 Cebaspre tracker é a solução perfeita para estudantes que estao em processo seletivo tanto pra ajudar as pessoas que perdem sua vaga por falta de entendiento sobre o processo seletivo tanto quanto as pessoas que sofrem de uma ansiedade pesada, para poder tranquiliza-las e tirar das costas dessas pessoas o peso de ficar atualizando todos os dias a pagina do concurso público PAS.
 
 ## Instalação
-# Passo a passo:
+ **Passo a passo**
 1. Clonar o repositório
 2. Acessar o caminho /Cebraspe-tracker/project/ctracker
 3. Rodar o comando: sudo docker-compose up
