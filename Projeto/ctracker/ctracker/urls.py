@@ -22,7 +22,7 @@ from alunos.api import viewsets as alunosviewSet
 
 route = routers.DefaultRouter()
 
-route.register(r'alunos/', alunosviewSet.AlunosViewSet, basename="Alunos")
+route.register(r'alunos', alunosviewSet.AlunosViewSet, basename="Alunos")
 
 urlpatterns = [
     path('admin/', admin.site.urls),
