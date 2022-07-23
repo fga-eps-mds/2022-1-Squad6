@@ -161,6 +161,8 @@ Alunos que fizeram parte do projeto 😎💦
 ---
 
 ## 🦸 Autor
+	
+Feito com ❤️ por [João Lucas](www.github.com/hackairos) 🕹🎯
 
 <a href="https://github.com/HacKairos/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/>
@@ -174,5 +176,4 @@ Alunos que fizeram parte do projeto 😎💦
 
 Este projeto esta sobe a licença [MIT](./.github/LICENSE).
 
-Feito com ❤️ por [João Lucas](www.github.com/hackairos) 🕹🎯
 
