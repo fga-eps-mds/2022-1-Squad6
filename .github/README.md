@@ -165,14 +165,14 @@ Alunos que fizeram parte do projeto 😎💦
 <a href="https://github.com/HacKairos/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>João Lucas Vas</b></sub></a> <a href="https://github.com/HacKairos/" title="HacKairos
+ <sub><b>João Lucas </b></sub></a> <a href="https://github.com/HacKairos/" title="HacKairos
  <br />
 
 ---
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./.github/LICENSE).
 
 Feito com ❤️ por [João Lucas](www.github.com/hackairos) 🕹🎯
 
