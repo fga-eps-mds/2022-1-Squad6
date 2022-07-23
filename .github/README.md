@@ -138,7 +138,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 👨‍💻 Contribuidores
 
-Alunos que fizeram parte do projeto 😎💦
+Alunos que fazem parte do projeto 😎💦
 
 <table>
   <tr>
