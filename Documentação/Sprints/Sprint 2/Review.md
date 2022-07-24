@@ -4,7 +4,7 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 01/07/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Adiciona documentação da sprint 1 | 1.0    |
+| 01/07/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Adiciona documentação da sprint 2 | 1.0    |
 
 ## Visão Geral
 
