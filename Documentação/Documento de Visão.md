@@ -7,6 +7,7 @@
 | 15/07/2022 | 0.1    | Abertura do documento de Visão | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 | 16/07/2022 | 0.2    | Adição dos tópicos 1, 2 e 3    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 | 17/07/2022 | 0.3    | Adição dos tópicos 4, 5 e 6    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 24/07/2022 | 1.0    | Adição do tópico 7             | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 
 ## 1. Introdução
 
@@ -99,7 +100,7 @@ O Projeto visa ser um facilitador do uso da plataforma do Cebraspe, dando segura
 
 | Benefício para o Usuário | Recursos de suporte |
 | ------------------------ | ------------------- |
-| Facilidade em se cadastrar | A aplicação disponibiliza uma interface com um campo para preenchimento do nome e outro para o e-mail, o usuário não terá a necessidade de criar uma conta |
+| Facilidade em se cadastrar | A aplicação disponibiliza uma interface com um campo para preenchimento do nome, e-mail e telefone, o usuário não terá a necessidade de criar uma conta |
 | Segurança na busca pelo nome | A aplicação notificará o estudante em caso deste ser chamado em um processo seletivo |
 
 ### 4.3 Funções do Produto
@@ -126,7 +127,7 @@ Listagem de restrições externas e outras dependências:
 
 ### 6.1 Restrições de Implementação
 
-O sistema será implementado utilizando algumas tecnologias, sendo elas Docker, webcrawler, python, lua script, django, djangorest, react, cloud.
+O sistema será implementado utilizando 2 principais tecnologias, sendo elas Django para o backend, webcrawler para leitura do html e React.js para o frontend.
 
 ### 6.2 Restrições externas
 
@@ -134,11 +135,11 @@ Dentre as restrições externas as que mais irão influenciar são a falta de ex
 
 ### 6.3 Restrições de Design
 
-Toda a interação com o software deve ocorrer de forma a não causar dúvida no usuário. Para isso será necessário apenas um informe do nome e e-mail.
+Toda a interação com o software deve ocorrer de forma a não causar dúvida no usuário. Para isso será necessário apenas que o usuário informe o nome, e-mail e telefone.
 
 ### 6.4 Restrições de Confiabilidade
 
-Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedores tem o comprometimento de manter uma cobertura de testes mínima de 90%.
+Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedores têm o comprometimento de manter uma cobertura de testes mínima de 90%.
 
 ## 7. Requisitos do Produto
 
@@ -146,8 +147,23 @@ Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedore
 
 | Identificador | Requisito | Prioridade |
 | ------------- | --------- | ---------- |
+| RF1           | Permitir que o estudante possa realizar o cadastro, utilizando nome, número de telefone e e-mail | Alta |
+| RF2           | O primeiro web crawler deverá ler o html, identificar e salvar o link das consultas online no banco de dados | Alta |
+| RF3           | O segundo web crawler deverá ser capaz de pegar um nome cadastrado e utilizá-lo como parâmetro para busca no html do subprograma do PAS | Alta |
+| RF4           | O segundo web deverá ser capaz de salvar no banco de dados o html gerado na busca do nome do estudante | Alta |
+| RF5           | O segundo web deverá buscar no html gerado o nome do estudante cadastrado | Alta |
+| RF6           | A aplicação deverá notificar o estudante cujo nome tenha sido chamado | Alta |
+| RF7           | O cadastro do estudante deverá ser removido caso este já tenha sido chamado | Média |
 
 ### 7.2 Requisitos não-funcionais
 
 | Identificador | Requisito | Prioridade |
 | ------------- | --------- | ---------- |
+| RNF1          | A interação com o usuário deve ser feita por meio de interface gráfica | Alta |
+| RNF2          | O software será desenvolvido para ambiente web | Alta |
+| RNF3          | O software deverá ser desenvolvido utilizando React.js e TypeScript para o Frontend | Alta |
+| RNF4          | O software deverá ser desenvolvido utilizando Django e Python para o Backend | Alta |
+| RNF5          | O software deverá ser desenvolvido utilizando o PostgreeSQL como banco de dados | Alta |
+| RNF6          | O software deverá ser desenvolvido utilizando Selenium e Scrapy para o web crawler | Alta |
+| RNF7          | O software deverá ser desenvolvido utilizando a arquitetura MVC | Alta |
+| RNF8          | O desenvolvimento da aplicação será containerizado com o Docker | Alta |
