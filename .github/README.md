@@ -31,7 +31,7 @@ Projeto desenvolvido durante o segundo semestre de 2022 por alunos da UNB .
 ## ⚙️ Funcionalidades
 
 - [x] Alunos podem se cadastrar na plataforma web enviando:
-  - [x] nome da entidade, email e whatsapp
+  - [x] Nome do aluno, email e whatsapp
 
 ---
 
