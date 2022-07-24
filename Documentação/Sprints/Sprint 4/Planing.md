@@ -20,6 +20,10 @@ Desenvolvedor | Asafe & Gabriel
 
 ## 3. Objetivos da Sprint
 <!-- descrever de forma geral o objetivo da sprint -->
+Começar a trabalhar na parte de codigo do projeto
+
+Documentar caracteristicas do projeto
+
 
 ## 4. Issues
 <!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
