@@ -27,8 +27,6 @@ $ scrapy crawl cebraspe1 -o links.json
 
 #### 🎲 Rodando o Crawler2 (com middleware selenium)
 
-```bash
-
 # dentro do Pasta cebrase-crawler 
 $ pip install Scrapy
 $ pip install scrapy-selenium
