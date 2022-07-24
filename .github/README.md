@@ -43,10 +43,10 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-### Web
+### 🖥 Pagina Web 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CebraspTracker" title="#CebraspeTracker" src="../Documentação/Prototipos/Alta fidelidade/PrototipoHome.png" width="800px">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="../Documentação/Prototipos/Alta fidelidade/PrototipoDashboard.png" width="600px">
 
 </p>
 
