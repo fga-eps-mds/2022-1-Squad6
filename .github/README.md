@@ -103,10 +103,10 @@ $ cd Cebraspe-Tracker-Front
 $ cd ctracker
 
 # Instale as dependências
-$ npm install
+$ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
