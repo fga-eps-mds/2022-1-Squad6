@@ -8,6 +8,7 @@
 | 16/07/2022 | 0.2    | Adição dos tópicos 1, 2 e 3    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 | 17/07/2022 | 0.3    | Adição dos tópicos 4, 5 e 6    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 | 24/07/2022 | 1.0    | Adição do tópico 7             | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 25/07/2022 | 1.0    | Atualizacao do tópico 7             | [ABDUL HANNAN](https://github.com/hannanhunny01) |
 
 ## 1. Introdução
 
@@ -147,13 +148,19 @@ Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedore
 
 | Identificador | Requisito | Prioridade |
 | ------------- | --------- | ---------- |
-| RF1           | Permitir que o estudante possa realizar o cadastro, utilizando nome, número de telefone e e-mail | Alta |
-| RF2           | O primeiro web crawler deverá ler o html, identificar e salvar o link das consultas online no banco de dados | Alta |
-| RF3           | O segundo web crawler deverá ser capaz de pegar um nome cadastrado e utilizá-lo como parâmetro para busca no html do subprograma do PAS | Alta |
-| RF4           | O segundo web deverá ser capaz de salvar no banco de dados o html gerado na busca do nome do estudante | Alta |
-| RF5           | O segundo web deverá buscar no html gerado o nome do estudante cadastrado | Alta |
-| RF6           | A aplicação deverá notificar o estudante cujo nome tenha sido chamado | Alta |
-| RF7           | O cadastro do estudante deverá ser removido caso este já tenha sido chamado | Média |
+| RF1           | Deve ser possível realizar o CRUD de Usuário | Alta |
+| RF2           | O Aplicativo deve ter um Sistema para Login | Alta |
+|RF3            | Deve ter uma opção, Caso o usuário queira receber apenas notificações sobre a Chamadas ou todas as atualizações no site da SubPrograma/PAS.|media|
+| RF4           | Deve ter um recurso para enviar mensagem ao usuário se o nome dele for encontrado na chamada do cebraspe/pas. | Alta |
+| RF5           | O nome deve ser retirado da pool de inscritos caso ele tenha sido chamado | Media |
+| RF6           | Se houver nova chamada de convocados o sistema devera notificar o usuários por e-mail ou sms/whatsapp | Media |
+| RF7           | O primeiro web crawler deverá ler o html, identificar e salvar o link das consultas online no banco de dados | Alta |
+| RF8           | O segundo web crawler deverá ser capaz de pesquisar todos os nomes cadastrado e utilizá-lo como parâmetro para busca nos chamadas do subprograma do PAS | Alta |
+| RF9           | O segundo crawler deve pesquisar o nome do usuário registrados na barra de pesquisa da chamada/PAS e verificar na html e se encontrar o nome da pessoa atualize na sistema | Alta |
+| RF10           | Para subprogramas do Pas que estão tendo chamada de convocados ou terão em futuro deveria ter crawlers implementado que deve funcionar de forma autónoma | Media |
+| RF11           | Deve ter um crawler que rodar todos os dias para verificar se tem uma nova atualização no site | Media |
+| RF12           | Se tera atualizacao no edital do PAS crawler1 deve rodar para encontrar novo link para novo Chamada | Alta |
+
 
 ### 7.2 Requisitos não-funcionais
 
@@ -161,9 +168,9 @@ Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedore
 | ------------- | --------- | ---------- |
 | RNF1          | A interação com o usuário deve ser feita por meio de interface gráfica | Alta |
 | RNF2          | O software será desenvolvido para ambiente web | Alta |
-| RNF3          | O software deverá ser desenvolvido utilizando React.js e TypeScript para o Frontend | Alta |
-| RNF4          | O software deverá ser desenvolvido utilizando Django e Python para o Backend | Alta |
+| RNF3          | O software deverá ser desenvolvido utilizando React.js,HTML,CSS3 e TypeScript para o Frontend | Alta |
+| RNF4          | O software deverá ser desenvolvido utilizando Django,REST FRAMEWORK e Python para o Backend | Alta |
 | RNF5          | O software deverá ser desenvolvido utilizando o PostgreeSQL como banco de dados | Alta |
-| RNF6          | O software deverá ser desenvolvido utilizando Selenium e Scrapy para o web crawler | Alta |
-| RNF7          | O software deverá ser desenvolvido utilizando a arquitetura MVC | Alta |
+| RNF6          | O software deverá ser desenvolvido utilizando Scrapy e MIDDLEWARE com SELENIUM E SPLASH para o web crawler | Alta |
+| RNF7          | O software deverá ser desenvolvido utilizando a arquitetura MVT | Alta |
 | RNF8          | O desenvolvimento da aplicação será containerizado com o Docker | Alta |
