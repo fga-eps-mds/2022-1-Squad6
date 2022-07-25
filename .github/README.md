@@ -150,6 +150,8 @@ Alunos que fazem parte do projeto 😎💦
   </tr>
 </table>
 
+---
+
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -164,11 +166,7 @@ Alunos que fazem parte do projeto 😎💦
 	
 Feito com ❤️ por [João Lucas](www.github.com/hackairos) 🕹🎯
 
-<a href="https://github.com/HacKairos/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>João Lucas </b></sub></a> <a href="https://github.com/HacKairos/" title="HacKairos
- <br />
+<td align="center"><a href="https://github.com/HacKairos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/><br /><sub><b>João Lucas Vas</b></sub></a><br /></td>
 
 ---
 
