@@ -14,11 +14,11 @@
 
 ## Reportando um Bug
 
-* Verifique se não há nenhuma [_Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker) relacionada a essa modificação.
+* Verifique se não há nenhuma [_Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues) relacionada a essa modificação.
 
-* Caso o bug não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/fga-eps-mds/2020.1-Vamos_Cuidar/blob/develop/.github/ISSUE_TEMPLATE/bug_report.md) do projeto;;
+* Caso o bug não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/.github/ISSUE_TEMPLATE/template-padrao.md) do projeto;;
 
-* Submeta um [_Pull Request_](https://github.com/fga-eps-mds/Cebraspe-Tracker/compare) seguindo o padrão do projeto;
+* Submeta um [_Pull Request_](https://github.com/fga-eps-mds/Cebraspe-Tracker/pulls) seguindo o padrão do projeto;
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
@@ -26,9 +26,9 @@
 
 * Verifique se não há nenhuma [_Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues) relacionada a essa modificação;
 
-* Caso a funcionalidade não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/fga-eps-mds/2020.1-VC_Usuario/blob/develop/.github/ISSUE_TEMPLATE/general-issue-template.md) do projeto;
+* Caso a funcionalidade não esteja em nenhuma das _Issues_, abra uma [Nova _Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/new/choose) seguindo o padrão de [_Issues_](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/.github/ISSUE_TEMPLATE/template-padrao.md) do projeto;
 
-* Submeta um [_Pull Request_](https://github.com/fga-eps-mds/Cebraspe-Tracker/compare) seguindo o padrão do projeto;
+* Submeta um [_Pull Request_](https://github.com/fga-eps-mds/Cebraspe-Tracker/pulls) seguindo o padrão do projeto;
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
