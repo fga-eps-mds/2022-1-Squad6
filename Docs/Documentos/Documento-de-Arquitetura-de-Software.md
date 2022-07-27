@@ -13,9 +13,11 @@
 
 | Data       | Versão | Descrição                      | Autor(es)                                                  |
 | ---------- | ------ | ------------------------------ | ---------------------------------------------------------- |
-| /07/2022 | 0.1    | Abertura do documento de Visão | [Abdul hannan](https://github.com/hannanhunny01)             |
-| 24/07/2022 | 0.2    | Atualizacao do documento de Visão | [Abdul hannan](https://github.com/hannanhunny01)           |
-|25/07/2022 |1.2| Atualizacao do documento de Visão | [Abdul hannan](https://github.com/hannanhunny01)           |
+| /07/2022 | 0.1    | Abertura do documento de Arquitetura | [Abdul hannan](https://github.com/hannanhunny01)             |
+| 24/07/2022 | 0.2    | Adcionando REPRESENTAÇÃO ARQUITETURAL,Diagrama de Classe e Pacotes | [Abdul hannan](https://github.com/hannanhunny01)           |
+|25/07/2022 |1.2| Atualizacao do documento de Pacotes e REPRESENTAÇÃO ARQUITETURAL | [Abdul hannan](https://github.com/hannanhunny01)           |
+|27/07/2022 |1.3| Adcionando Documento de Caso do Uso | [Abdul hannan](https://github.com/hannanhunny01)           |
+
  
 
 
@@ -33,8 +35,9 @@
    3. Escopo
    4. CONFIGURAÇÕES, ACRÔNIMOS E ABREVIAÇÕES
    5. REPRESENTAÇÃO ARQUITETURAL
-   6. Diagrama de Classes
-   7. Diagrama de Pacotes
+   6. Diagrama de Caso de uso
+   7. Diagrama de Classes
+   8. Diagrama de Pacotes
     
 
 
@@ -59,31 +62,38 @@
 - Front-end:
    - React: É um conjunto de bibliotecas de código aberto seguro para a criação de UIs interativas de forma mais fácil. Toda lógica é escrita em JavaScript da Repassagem de dados ao longo da passagem de dados. Essa tecnologia foi escolhida por quantidade de conteúdo disponível na internet, para o treinamento e aprendizado da equipe, outro ponto positivo é o fórum de dúvidas acerca do assunto estar sempre a disposição.
      <p align="center">
-  ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Documenta%C3%A7%C3%A3o/Assets/react.png)</p>
+  ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/react.png)</p>
 - Back-end:
   - Django: REST framework (DRF) é um kit de ferramentas poderoso e flexível para construir APIs da Web. Seu principal benefício é que torna a serialização muito mais fácil.
 O framework Django REST é baseado nas visualizações baseadas em classes do Django, então é uma excelente opção se você estiver familiarizado com o Django. Ele adota implementações como visualizações baseadas em classes, formulários, validador de modelo, QuerySet e muito mais.
     <p align="center">
- ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Documenta%C3%A7%C3%A3o/Assets/rest.png) </p>
+ ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/rest.png) </p>
 
 - Scrapy-selenium é um middleware que é usado em web scraping. scrapy não suporta a scraping dos sites modernos que usam estruturas javascript e esta é a razão pela qual esse middleware é usado com scrapy para crawl esses sites modernos. O Scrapy-selenium fornece as funcionalidades do selenium que ajudam no trabalho com sites javascript. Outra vantagem proporcionada por isso é o driver pelo qual também podemos ver o que está acontecendo nos bastidores. Como o selênium é uma ferramenta automatizada, ele também nos fornece como lidar com tags de entrada e scrap de acordo com o que você passa no campo de entrada.
     <p align="center">
- ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Documenta%C3%A7%C3%A3o/Assets/scrapy.png)</p>
+ ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/scrapy.png)</p>
+ 
+ 5.  ### _**Diagrama de caso de uso**_
+ - Usuário(Aluno) do sistema que terá acesso, após a autenticação, tera a opção de receber o tipo de notificação que ele deseja receber.
+   <p align="center">
+  ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/documento-de-casoUso.png)</p>
+
+
 
 
 6. ### _**Diagrama de Classes**_
     Essa é a primeira versão das classes no diagrama de classe do projeto Cebraspe-Tracker.
     <p align="center">
-  ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Documenta%C3%A7%C3%A3o/Assets/DiagramaDeClasses.png)
+  ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/DiagramaDeClasses.png)
   
 </p>
 
 7. ### _**Diagrama de Pacotes**_
     Essa é a primeira versão das classes no diagrama de Pacotes do projeto Cebraspe-Tracker.
       <p align="center">
-  ![Diagrama do Pacotes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Documenta%C3%A7%C3%A3o/Assets/DiagramaDePacotes%20.png)
-  ![Diagrama do Pacotes2](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Documenta%C3%A7%C3%A3o/Assets/DiagramaDePacotes2.png)
-  ![Diagrama do Pacotes3](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Documenta%C3%A7%C3%A3o/Assets/Diagrama_depacote_3.png)
+  ![Diagrama do Pacotes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/DiagramaDePacotes%20.png)
+  ![Diagrama do Pacotes2](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/DiagramaDePacotes2.png)
+  ![Diagrama do Pacotes3](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Docs/Assets/Diagrama_depacote_3.png)
   
 </p>
     
