@@ -46,7 +46,7 @@ O layout da aplicação está disponível no Figma:
 ### 🖥 Pagina Web 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CebraspTracker" title="#CebraspeTracker" src="../Documentação/Prototipos/Alta fidelidade/PrototipoDashboard.png" width="600px">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="../Docs/Prototipos/Alta fidelidade/PrototipoDashboard.png" width="600px">
 
 </p>
 
