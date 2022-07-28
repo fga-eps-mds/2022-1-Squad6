@@ -17,11 +17,10 @@
 - Produto
 
   - [Documento de Visão](/Docs/Documentos/Documento-de-Arquitetura-de-Software.md)
-  - [Documento de Requisitos](/Docs/Documentos/Documento-de-Visao.md)
-  - [Documento de Arquitetura](/docs/DocumentoDeArquitetura)
+  - [Documento de Arquitetura](/Docs/Documentos/Documento-de-Visao.md)
   - [Backlog do Produto](/docs/BacklogDoProduto)
-  - [Protótipo](/docs/Prototipo)
-  - [Style Guide](/docs/StyleGuide.md)
+  - [Protótipo](/Docs/Documentos/Prototipo.md)
+ 
 
 ---
 
