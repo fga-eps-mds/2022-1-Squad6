@@ -62,21 +62,21 @@
 - Front-end:
    - React: É um conjunto de bibliotecas de código aberto seguro para a criação de UIs interativas de forma mais fácil. Toda lógica é escrita em JavaScript da Repassagem de dados ao longo da passagem de dados. Essa tecnologia foi escolhida por quantidade de conteúdo disponível na internet, para o treinamento e aprendizado da equipe, outro ponto positivo é o fórum de dúvidas acerca do assunto estar sempre a disposição.
    
-  ![React](../Assets/documento-de-casoUso.png)
+  ![React](../Assets/react.png)
 - Back-end:
   - Django: REST framework (DRF) é um kit de ferramentas poderoso e flexível para construir APIs da Web. Seu principal benefício é que torna a serialização muito mais fácil.
 O framework Django REST é baseado nas visualizações baseadas em classes do Django, então é uma excelente opção se você estiver familiarizado com o Django. Ele adota implementações como visualizações baseadas em classes, formulários, validador de modelo, QuerySet e muito mais.
 
- ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Assets/rest.png)
+ ![Rest](../Assets/rest.png)
 
 - Scrapy-selenium é um middleware que é usado em web scraping. scrapy não suporta a scraping dos sites modernos que usam estruturas javascript e esta é a razão pela qual esse middleware é usado com scrapy para crawl esses sites modernos. O Scrapy-selenium fornece as funcionalidades do selenium que ajudam no trabalho com sites javascript. Outra vantagem proporcionada por isso é o driver pelo qual também podemos ver o que está acontecendo nos bastidores. Como o selênium é uma ferramenta automatizada, ele também nos fornece como lidar com tags de entrada e scrap de acordo com o que você passa no campo de entrada.
    
- ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Assets/scrapy.png)
+ ![Diagrama de classes](../Assets/scrapy.png)
  
  5.  ### _**Diagrama de caso de uso**_
  - Usuário(Aluno) do sistema que terá acesso, após a autenticação, tera a opção de receber o tipo de notificação que ele deseja receber.
   
-  ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Assets/documento-de-casoUso.png)
+  ![React](../Assets/documento-de-casoUso.png)
 
 
 
@@ -84,16 +84,16 @@ O framework Django REST é baseado nas visualizações baseadas em classes do Dj
 6. ### _**Diagrama de Classes**_
     Essa é a primeira versão das classes no diagrama de classe do projeto Cebraspe-Tracker.
   
-  ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Assets/DiagramaDeClasses.png)
+  ![Diagrama de classes](../Assets/DiagramaDeClasses.png)
   
 
 
 7. ### _**Diagrama de Pacotes**_
     Essa é a primeira versão das classes no diagrama de Pacotes do projeto Cebraspe-Tracker.
     
-  ![Diagrama do Pacotes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Assets/DiagramaDePacotes%20.png)
-  ![Diagrama do Pacotes2](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Assets/DiagramaDePacotes2.png)
-  ![Diagrama do Pacotes3](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Assets/Diagrama_depacote_3.png)
+  ![Diagrama do Pacotes](../Assets/DiagramaDePacotes .png)
+  ![Diagrama do Pacotes2](../Assets/DiagramaDePacotes2.png)
+  ![Diagrama do Pacotes3](../Assets/Diagrama_depacote_3.png)
   
 
     
