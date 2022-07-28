@@ -10,7 +10,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
@@ -42,13 +41,6 @@ O layout da aplicação está disponível no Figma:
 <a href="https://www.figma.com/file/rs895AnU1WtSaW2KDfVpxr/Cebrasp---Tracker">
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
-
-### 🖥 Pagina Web 
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CebraspTracker" title="#CebraspeTracker" src="../Documentação/Prototipos/Alta fidelidade/PrototipoDashboard.png" width="600px">
-
-</p>
 
 ---
 
@@ -144,8 +136,9 @@ Alunos que fazem parte do projeto 😎💦
   <tr>
 	<td align="center"><a href="https://github.com/asafesouza"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55165673?v=4" width="100px;" alt=""/><br /><sub><b>Asafe Souza</b></sub></a><br /></td>
 	<td align="center"><a href="https://github.com/Gabrielribeirof19"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65191622?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel De Souza</b></sub></a><br /></td>
-	<td align="center"><a href="https://github.com/hannanhunny01"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/30380452?v=4" width="100px;" alt=""/><br /><sub><b>hannan</b></sub></a><br /></td>
+	<td align="center"><a href="https://github.com/hannanhunny01"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/30380452?v=4" width="100px;" alt=""/><br /><sub><b>Abdul hannan</b></sub></a><br /></td>
 	<td align="center"><a href="https://github.com/MatheusHenrickSantos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79066829?v=4" width="100px;" alt=""/><br /><sub><b>MatheusHenrickSantos</b></sub></a><br /></td>
+	<td align="center"><a href="https://github.com/HacKairos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/><br /><sub><b>João Lucas Vas</b></sub></a><br /></td>
     
   </tr>
 </table>
@@ -159,14 +152,6 @@ Alunos que fazem parte do projeto 😎💦
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
-
----
-
-## 🦸 Autor
-	
-Feito com ❤️ por [João Lucas](www.github.com/hackairos) 🕹🎯
-
-<td align="center"><a href="https://github.com/HacKairos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/><br /><sub><b>João Lucas Vas</b></sub></a><br /></td>
 
 ---
 
