@@ -52,42 +52,42 @@
       <summary>Sprint 02 </summary>
       <ul>
       <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%202/Review.md">Resultado</a> </li>
-      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%202/Planning.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%202/Planing.md">Planejamento</a></li>
       </ul>
       </details>
       <details>
       <summary>Sprint 03 </summary>
       <ul>
       <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%203/Review.md">Resultado</a> </li>
-      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%203/Planning.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%203/Planing.md">Planejamento</a></li>
        </ul>
       </details>
       <details>
       <summary>Sprint 04 </summary>
       <ul>
       <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%204/Review.md">Resultado</a> </li>
-      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%204/Planning.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%204/Planing.md">Planejamento</a></li>
       </ul>
       </details>
       <details>
       <summary>Sprint 05 </summary>
       <ul>
      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%205/Review.md">Resultado</a> </li>
-      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%205/Planning.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%205/Planing.md">Planejamento</a></li>
       </ul>
       </details>
       <details>
       <summary>Sprint 06 </summary>
       <ul>
      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%206/Review.md">Resultado</a> </li>
-      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%206/Planning.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints/Sprint%206/Planing.md">Planejamento</a></li>
       </ul>
       </details>
       <details>
       <summary>Sprint 07 </summary>
       <ul>
       <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints7/Sprint%207/Review.md">Resultado</a> </li>
-      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints7/Sprint%207/Planning.md">Planejamento</a></li>
+      <li> <a href="https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/gh-pages/Docs/Sprints7/Sprint%207/Planing.md">Planejamento</a></li>
    
       
 
