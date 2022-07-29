@@ -4,20 +4,18 @@
 
 - Projeto
 
-  - [Termo de Abertura](/docs/TAP)
-  - [Estrutura Analítica do Projeto](/docs/EstruturaAnalítica)
-  - [Canvas](docs/assets/modeloCanvas.md)
-  - [Metodologia](/docs/DocumentoDeMetodologia)
-  - [Ferramentas Utilizadas](/docs/Ferramentas)
-  - [Roadmap do Produto](/docs/DocumentoDoRoadmap)
-  - [Post Mortem](/docs/PostMortem.md)
+  - [Termo de Abertura](/Docs/Documentos/TermoDEAbertura.md)
+  - [Metodologia](/Docs/Documentos/DocumentoDeMetedologia.md)
+  - [Ferramentas Utilizadas](/Docs/Documentos/DocumentoDeMetedologia.md)
+  - [Roadmap do Produto](/Docs/Documentos/)
+
 
 ---
 
 - Produto
 
-  - [Documento de Visão](/Docs/Documentos/Documento-de-Arquitetura-de-Software.md)
-  - [Documento de Arquitetura](/Docs/Documentos/Documento-de-Visao.md)
+  - [Documento de Visão](/Docs/Documentos/Documento-de-Visao.md)
+  - [Documento de Arquitetura](/Docs/Documentos/Documento-de-Arquitetura-de-Software.md)
   - [Backlog do Produto](/docs/BacklogDoProduto)
   - [Protótipo](/Docs/Documentos/Prototipo.md)
  
