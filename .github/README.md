@@ -146,6 +146,7 @@ Alunos que fazem parte do projeto 😎💦
 	<td align="center"><a href="https://github.com/Gabrielribeirof19"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65191622?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel De Souza</b></sub></a><br /></td>
 	<td align="center"><a href="https://github.com/hannanhunny01"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/30380452?v=4" width="100px;" alt=""/><br /><sub><b>hannan</b></sub></a><br /></td>
 	<td align="center"><a href="https://github.com/MatheusHenrickSantos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79066829?v=4" width="100px;" alt=""/><br /><sub><b>MatheusHenrickSantos</b></sub></a><br /></td>
+	<td align="center"><a href="https://github.com/HacKairos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/><br /><sub><b>João Lucas Vas</b></sub></a><br /></td>
     
   </tr>
 </table>
@@ -159,14 +160,6 @@ Alunos que fazem parte do projeto 😎💦
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
-
----
-
-## 🦸 Autor
-	
-Feito com ❤️ por [João Lucas](www.github.com/hackairos) 🕹🎯
-
-<td align="center"><a href="https://github.com/HacKairos"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57872849?v=4" width="100px;" alt=""/><br /><sub><b>João Lucas Vas</b></sub></a><br /></td>
 
 ---
 
