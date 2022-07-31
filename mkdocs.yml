@@ -1,0 +1,7 @@
+site_name: Cebraspe Tracker
+theme:
+  name: material
+  font:
+    text: arial
+  icon:
+    logo: material/book
