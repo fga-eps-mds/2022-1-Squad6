@@ -6,13 +6,13 @@
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 21/07/2021 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 1 | 1.0    |
 
-## 1. Visão Geral
+## Visão Geral
 
  Início | Fim | Duração
  ------ | --- | -------
  21/06/22 | 26/06/22 | 6 dias
 
-## 2. Papéis
+## Papéis
 
 Papel | Membros
 ----- | -------
@@ -21,20 +21,20 @@ Product Owner | Matheus
 Arquiteto de Software | Hannan
 Desenvolvedor | Asafe & Gabriel
 
-## 3. Objetivos da Sprint
+## Objetivos da Sprint
 
 * Conhecer os membros da equipe
 * Verificar os conhecimentos da equipe
 * Preparar os ambientes que utilizaremos
 * Definir as formas de comunicação
 
-## 4. Issues
+## Issues
 
-Issues | Descrição | Resposáveis
- :------: | -------- | ----------- 
-Treinamento GitHub | Participar do treinamento oferecido pelo monitor | Toda a equipe
-Estudo sobre Scrum | Estudar o papel do Scrum pelo material disponibilizado | Toda a equipe
-Estudo do Documento de Arquitetura | Estudar como criar um documento de arquitetura |Hannan
-Template da Issue | Criar um modelo de Issue |Matheus
-Documentar Sprint 1 | Criar um documento detalhando as atividades a serem realizadas na sprint 1 | [João Lucas](https://github.com/HacKairos)
-Pesquisar trabalhos anteriores | Investigar os trabalhos de equipes de semestres anteriores | Toda a equipe
+| Tarefa | Responsavel |
+| :------ | :--------: |
+| [Treinamento de GitHub](https://github.com/fga-eps-mds/2022-1-Squad6/issues/1) | Todos |
+| [Introdução ao documento de arquitetura](https://github.com/fga-eps-mds/2022-1-Squad6/issues/2) | Hannan |
+| [Template de Issues](https://github.com/fga-eps-mds/2022-1-Squad6/issues/3) | Matheus |
+| [Estudo sobre metodologia scrum](https://github.com/fga-eps-mds/2022-1-Squad6/issues/4) | Todos |
+| [Analizar trabalhos dos semestres anteriores](https://github.com/fga-eps-mds/2022-1-Squad6/issues/5) | Todos |
+| [Documentação da primeira sprint](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/6) | João Lucas |

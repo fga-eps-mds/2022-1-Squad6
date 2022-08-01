@@ -1,10 +1,18 @@
-## 1. Visão Geral
+# Planning
+
+## Histórico de revisão
+
+| Data       | Autor                                        | Modificações                      | Versão |
+| ---------- | -------------------------------------------- | --------------------------------- | ------ |
+| 25/08/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 6 | 1.0    |
+
+## Visão Geral
 
 | Início | Fim | Duração |
 | --- | --- | --- |
-| 18/07/22 | 24/07/22 | 7 dias |
+| 25/08/22 | 31/07/22 | 7 dias |
 
-## 2. Papéis
+## Papéis
 
 | Papel | Membros |
 | --- | --- |
@@ -13,32 +21,26 @@
 | Arquiteto de Software | Hannan |
 | Desenvolvedor | Asafe & Gabriel |
 
-## 3. Objetivos da Sprint
+## Objetivos da Sprint
 
-Documentar tudo que ocorreu nas ultimas sprints
+Tentar deixar o projeto mais organizado possivel para primeira release
 
-E tentar deixar em dia a documentação atrasada
+Nessa sprint não foram definidos os responsaveis para cada issue, de forma que, quem tivesse interesse em alguma issue deveria dar um assigned na mesma
 
-Preparar um ambiente para trabalhar no front end
+## Issues
 
-Deixar o projeto mais organizado
-
-E deixar mais palpavel o visao sobre o projeto
-
-## 4. Issues
-
-| Issues | Resposáveis |
-| --- | --- |
-| [Configurar github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/24) | João Lucas |
-| [Implementacao do 2º Web crawler](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/25) | Hannan |
-| [Revisao do documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/26) | Hannan |
-| [Diagrama de pacotes](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/27) | Hannan |
-| [Atualizar o documento visao](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/28) | Matheus |
-| [Product Backlog](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/29) | João Lucas |
-| [Configurar o zenhub](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/30) | João Lucas |
-| [Ambientacao do front end](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/31) | João Lucas |
-| [Community Standards](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/32) | João Lucas |
-| [Politica de contribuicao](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/33) | João Lucas |
-| [Atualizar readme](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/34) | João Lucas |
-| [Documentações atrasadas das sprints passadas](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/35) | João Lucas |
-| [Diagrama de Classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/36) | Hannan |
+| Issues |
+| :---: |
+| [Padronização das pastas do repositorio](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/38) | 
+| [Pontuar as issues da sprint 6 ](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/39) |
+| [Desenvolver Roadmap](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/40) | 
+| [Documentar Protótipos na github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/41) |
+| [Criar politicas de branch ,commit, pull request](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/42) | 
+| [Criar e documentar quadro de conhecimento](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/45) |
+| [Documentar sprints na github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/46) | 
+| [Desenvolver identidade visual](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/47) |
+| [Documentar documento de visao e de arquitetura no Github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/48) | 
+| [Revisar documentação da Github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/49) |
+| [Criar release do projeto](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/50) |
+| [Desenvolver Diagrama de caso de uso](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/53) |
+| [Desenvolver Termo de Abertura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/55) |

@@ -1,11 +1,18 @@
-## 1. Visão Geral
+# Planning
 
+## Histórico de revisão
+
+| Data       | Autor                                        | Modificações                      | Versão |
+| ---------- | -------------------------------------------- | --------------------------------- | ------ |
+| 18/08/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 5 | 1.0    |
+
+## Visão Geral
 
 | Início | Fim | Duração |
 | --- | --- | --- |
 | 18/08/22 | 24/08/22 | 7 dias |
 
-## 2. Papéis
+## Papéis
 
 | Papel | Membros |
 | --- | --- |
@@ -14,7 +21,7 @@
 | Arquiteto de Software | Hannan |
 | Desenvolvedor | Asafe & Gabriel |
 
-## 3. Objetivos da Sprint
+## Objetivos da Sprint
 
 
 Documentar tudo que ocorreu nas ultimas sprints
@@ -27,10 +34,10 @@ Deixar o projeto mais organizado
 
 E deixar mais palpavel o visao sobre o projeto
 
-## 4. Issues
+## Issues
 
-| Issues | Resposáveis |
-| :------: | --- |
+| Issues | Responsavel |
+| :------ | --- |
 | [Configurar github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/24) | João Lucas |
 | [Implementacao do 2º Web crawler](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/25) | Hannan |
 | [Revisao do documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/26) | Hannan |

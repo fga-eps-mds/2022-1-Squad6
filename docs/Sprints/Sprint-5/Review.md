@@ -10,12 +10,12 @@
 
 Início | Fim | Duração | Membros ausentes
  ------ | --- | ------- | --------
- 18/08/22 | 24/08/22 | 7 dias | Nenhum
+ 18/08/22 | 24/08/22 | 7 dias | 3
 
 ## Tarefas Realizadas
 
 | Tarefa | Concluída ? |
-| :------: | :--------: |
+| :------ | :--------: |
 | [Configurar github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/24) | ✔ |
 | [Implementacao do 2º Web crawler](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/25) | ✔ |
 | [Revisao do documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/26) | ✔ |
@@ -36,7 +36,3 @@ Diminuir o atraso da equipe
 
 ## Pontos Negativos
 Falta de participação ede interesse de alguns participantes
-
-Escraviasção do scrum master
-
-#ScrumMasterTbmÉGente

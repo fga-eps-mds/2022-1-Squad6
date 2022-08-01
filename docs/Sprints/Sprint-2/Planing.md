@@ -6,13 +6,13 @@
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 27/07/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 2 | 1.0    |
 
-## 1. Visão Geral
+## Visão Geral
 
  Início | Fim | Duração
  ------ | --- | -------
  27/06/22 | 01/07/22 | 5 dias
 
-## 2. Papéis
+## Papéis
 
 Papel | Membros
 ----- | -------
@@ -21,18 +21,18 @@ Product Owner | Matheus
 Arquiteto de Software | Hannan
 Desenvolvedor | Asafe & Gabriel
 
-## 3. Objetivos da Sprint
+## Objetivos da Sprint
 
 * Realizar uma votação para a linguagem , framework , Banco de dados.
 * Aprimorar o conhecimentos dos participantes do grupo.
 * Configurar o ambiente para os alunos trabalharem em cima.
 
-## 4. Issues
+## Issues
 
-Issues | Descrição | Resposáveis
-:------: | --------- | -----------
-Documentação da sprint 2 | Criar a documentação da primeira semana de projeto. | [João Lucas](https://github.com/HacKairos)
-Configurar o ambiente em todas as maquinas | Configurar o ambiente em suas respectivas maquinas pessoais. | Todos alunos
-Capacitação/Estudo sobre Elixir | Aprender as funcionalidades basicas do Elixir. | Todos alunos
-Capacitação/Estudo do Docker | Aprender as funcionalidades basicas do Docker. | Todos alunos
-Capacitação/Estudo sobre Phoenix | Aprender as funcionalidades basicas do Phoenix. | Todos alunos
+| Tarefa | Responsavel |
+| :------ | :--------: |
+| [Capacitação/Estudo sobre Phoenix](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/7) | Todos |
+| [Capacitação/Estudo do Docker](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/8) | Todos |
+| [Capacitação/Estudo sobre Elixir](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/9) | Todos |
+| [Documentação da sprint 2](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/10) | João Lucas |
+| [Configurar o ambiente em todas as maquinas](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/11) | Todos |

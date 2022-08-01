@@ -15,12 +15,13 @@ Início | Fim | Duração | Membros ausentes
 ## Tarefas Realizadas
 
 | Tarefa | Concluída? |
-| :------: | :--------: |
+| :------ | :--------: |
 | [Treinamento de GitHub](https://github.com/fga-eps-mds/2022-1-Squad6/issues/1) | ✔ |
 | [Introdução ao documento de arquitetura](https://github.com/fga-eps-mds/2022-1-Squad6/issues/2) | ✔ |
 | [Template de Issues](https://github.com/fga-eps-mds/2022-1-Squad6/issues/3) | ✔ |
 | [Estudo sobre metodologia scrum](https://github.com/fga-eps-mds/2022-1-Squad6/issues/4) | ✔ |
 | [Analizar trabalhos dos semestres anteriores](https://github.com/fga-eps-mds/2022-1-Squad6/issues/5) | ✔ |
+| [Documentação da primeira sprint](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/6) | ✔ |
 
 
 

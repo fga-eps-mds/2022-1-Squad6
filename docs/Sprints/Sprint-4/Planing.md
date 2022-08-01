@@ -1,12 +1,18 @@
 # Planning
 
-## 1. Visão Geral
+## Histórico de revisão
+
+| Data       | Autor                                        | Modificações                      | Versão |
+| ---------- | -------------------------------------------- | --------------------------------- | ------ |
+| 11/08/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 4 | 1.0    |
+
+## Visão Geral
 
  Início | Fim | Duração
  ------ | --- | -------
  11/08/22 | 17/08/22 | 7 dias
 
-## 2. Papéis
+## Papéis
 
 Papel | Membros
 ----- | -------
@@ -15,17 +21,17 @@ Product Owner | Matheus
 Arquiteto de Software | Hannan
 Desenvolvedor | Asafe & Gabriel
 
-## 3. Objetivos da Sprint
+## Objetivos da Sprint
 
 Começar a trabalhar na parte de codigo do projeto
 
 Documentar caracteristicas do projeto
 
 
-## 4. Issues
+## Issues
 
-Issues |  Resposáveis
-:------: |   -----------
+Issues |  Responsavel
+:------ |   -----------
 [Documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/14) | Hannan
 [Ambientação Presente no github](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/15) | Gabriel 
 [Documento de visão](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/17) | Matheus 
