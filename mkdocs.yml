@@ -1,0 +1,15 @@
+site_name: Cebraspe Tracker
+
+repo_url: https://github.com/fga-eps-mds/Cebraspe-Tracker
+
+theme:
+  name: material
+  language: pt-BR
+  font:
+    text: Roboto
+  palette:
+    scheme: slate
+    primary: teal
+    accent: light blue
+  icon:
+    repo: fontawesome/brands/github
