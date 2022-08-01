@@ -1,16 +1,13 @@
 # Planning
 
 ## 1. Visão Geral
-<!-- data de inicio da sprint
-     data de finalização da sprint
-     duraração da sprint
- -->
+
  Início | Fim | Duração
  ------ | --- | -------
- 11/07/22 | 17/07/22 | 7 dias
+ 11/08/22 | 17/08/22 | 7 dias
 
 ## 2. Papéis
-<!-- Papeis que cada membro exerceu durante essa sprint -->
+
 Papel | Membros
 ----- | -------
 Scrum Master | [João Lucas](https://github.com/HacKairos)
@@ -19,14 +16,14 @@ Arquiteto de Software | Hannan
 Desenvolvedor | Asafe & Gabriel
 
 ## 3. Objetivos da Sprint
-<!-- descrever de forma geral o objetivo da sprint -->
+
 Começar a trabalhar na parte de codigo do projeto
 
 Documentar caracteristicas do projeto
 
 
 ## 4. Issues
-<!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
+
 Issues |  Resposáveis
 ------ |   -----------
 [Documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/14) | Hannan

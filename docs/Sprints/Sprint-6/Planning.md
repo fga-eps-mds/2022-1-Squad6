@@ -1,17 +1,10 @@
 ## 1. Visão Geral
 
-<!-- data de inicio da sprint
-     data de finalização da sprint
-     duraração da sprint
- -->
-
 | Início | Fim | Duração |
 | --- | --- | --- |
 | 18/07/22 | 24/07/22 | 7 dias |
 
 ## 2. Papéis
-
-<!-- Papeis que cada membro exerceu durante essa sprint -->
 
 | Papel | Membros |
 | --- | --- |
@@ -21,8 +14,6 @@
 | Desenvolvedor | Asafe & Gabriel |
 
 ## 3. Objetivos da Sprint
-
-<!-- descrever de forma geral o objetivo da sprint -->
 
 Documentar tudo que ocorreu nas ultimas sprints
 
@@ -35,8 +26,6 @@ Deixar o projeto mais organizado
 E deixar mais palpavel o visao sobre o projeto
 
 ## 4. Issues
-
-<!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
 
 | Issues | Resposáveis |
 | --- | --- |

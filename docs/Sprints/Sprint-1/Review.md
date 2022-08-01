@@ -4,13 +4,13 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 27/07/2021 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Adiciona documentação da sprint 1 | 1.0    |
+| 26/07/2021 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Adiciona documentação da sprint 1 | 1.0    |
 
 ## Visão Geral
 
 Início | Fim | Duração | Membros ausentes
  ------ | --- | ------- | --------
- 21/06/22 | 26/06/22 | 5 dias | Nenhum
+ 21/06/22 | 26/06/22 | 6 dias | Nenhum
 
 ## Tarefas Realizadas
 
