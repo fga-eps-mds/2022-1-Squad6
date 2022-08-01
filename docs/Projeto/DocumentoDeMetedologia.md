@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição   | Autor     |
 | ---------- | ------ | ----------- | --------- |
-| 29/07/2022 | 0.1    | Criacao do Documento de Metodologia| [@Abdul hannan](https://github.com/hannanhunny01)|
+| 29/07/2022 | 0.1    | Criacao do Documento de Metodologia| [Abdul hannan](https://github.com/hannanhunny01)|
 
 
 

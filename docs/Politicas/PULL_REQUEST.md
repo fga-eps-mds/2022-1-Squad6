@@ -4,7 +4,8 @@
 |Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 28/07/2022 | 1.0 | Criação do documento de polílica de pull requests |   [João Lucas](https://github.com/HacKairos)  |
-# Criação de _Pull Request_
+
+## Criação de _Pull Request_
 
 Considere uma situação hipotética onde estamos querendo criar um PR de uma _branch_ chamada **Sprints** para a _master_.
 

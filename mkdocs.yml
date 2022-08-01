@@ -7,10 +7,22 @@ theme:
   language: pt-BR
   font:
     text: Roboto
-  palette:
-    scheme: slate
-    primary: deep purple
-    accent: teal
+  
+  palette: 
+    - scheme: default
+      primary: teal
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    
   icon:
     repo: fontawesome/brands/github
   logo: assets/images/favicon.png

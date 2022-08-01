@@ -4,9 +4,9 @@
 
 |Data|Versão|Descrição|Autor(es)|
 |:--:|:--:|:--:|:--:|
-|10/02/2022|1.0|construção do Protótipo de baixa fidelidade|[@Joao lucas](https://github.com/HacKairos)|
-|17/02/2022|2.0|construção do Protótipo de Alta fidelidade|[@Asafe souza](https://github.com/asafesouza)|
-|24/02/2022|2.1|construção do documento Protótipo.md para usar na página do githubpage|[@abdul hannan](https://github.com/hannanhunny01)|
+|11/07/2022|1.0|construção do Protótipo de baixa fidelidade|[Joao lucas](https://github.com/HacKairos)|
+|17/07/2022|2.0|construção do Protótipo de Alta fidelidade|[Asafe souza](https://github.com/asafesouza)|
+|28/07/2022|2.1|construção do documento Protótipo.md para usar na página do githubpage|[abdul hannan](https://github.com/hannanhunny01)|
 
 ## 1.Introdução
 

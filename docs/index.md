@@ -1,7 +1,6 @@
 ---
 hide:
   - navigation
-  - toc
 ---
 # Apresentação
 
@@ -9,8 +8,9 @@ hide:
 
 ♻️ Cebraspe Tracker - é uma forma de ajudar os estudantes a descobrirem se foram aprovados pelo processo seletivo do PAS.
 
+---
 
-Projeto desenvolvido durante o segundo semestre de 2022 por alunos da UNB .
+👨‍💻👩‍💻 Projeto desenvolvido durante o segundo semestre de 2022 por alunos da UNB .
 
 ---
 

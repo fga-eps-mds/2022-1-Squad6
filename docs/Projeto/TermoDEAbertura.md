@@ -1,21 +1,21 @@
 # Termo de Abertura
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Data       | Versão | Modificação                              | Autor                                                                                                                                                                                                           |
 | :--------- | :----- | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 29/07/2022 | 0.1    | Abertura do documento                    | [Abdul hannan](https://github.com/hannanhunny01) |
                                                                                                                                                                  
 
-# 1. Introdução
+## 1. Introdução
 
 Este documento tem o propósito de apresentar de forma resumida os elementos fundamentais do projeto, seus objetivos, escopo, etc, para que se tenha uma visão geral do projeto desenvolvido.
 
-# 2. Descrição do Projeto
+## 2. Descrição do Projeto
 
 O projeto busca ajuda alunos do ensino medio fazendo Pas/unb para nao perder nenhum chamada ou atualizacao no site da Subprograma.  
 
-# 3. Objetivo do Projeto
+## 3. Objetivo do Projeto
 
 Facilitar a utilização do usuário na plataforma Cebraspe-tracker nos seguintes questoes:
 
@@ -23,11 +23,11 @@ Facilitar a utilização do usuário na plataforma Cebraspe-tracker nos seguinte
 - Sistema envia uma mensagem ao usuário se nome dele foi encontrado no "Chamada para matricula".
 
 
-# 4. Escopo Geral do Projeto
+## 4. Escopo Geral do Projeto
 
 A plataforma será construída como Aplicação Web onde o usuário pode se cadastrar no sistema preenchendo o formulário de cadastro.
 
-# 5. Equipe e Funções Internas
+## 5. Equipe e Funções Internas
 
 A equipe é compostas por alunos da disciplina de Métodos de Desenvolvimento de Software (MDS) responsáveis por diferentes papéis de gerência descritos a seguir em tabela.
 
@@ -39,11 +39,11 @@ A equipe é compostas por alunos da disciplina de Métodos de Desenvolvimento de
 | Desenvolvidor    | Asafe souza     | [Asafe Souza](https://github.com/asafesouza)                   |
 | Desenvolvidor    |Gabriel Ribeiro             | [Gabriel](https://github.com/Gabrielribeirof19)         |
 
-# 6. Metodologia de Desenvolvimento
+## 6. Metodologia de Desenvolvimento
 
 O projeto será desenvolvido seguindo a metodologia ágil associada ao DevOps, focando em entregas continuas para o incremento do software.
 
-# 7. Comunicação da Equipe
+## 7. Comunicação da Equipe
 
 Para manter uma boa comunicação entre o time decidimos utilizar as seguintes ferramentas como meio de comunicação:
 
@@ -53,7 +53,7 @@ Para manter uma boa comunicação entre o time decidimos utilizar as seguintes f
 |  Discord   |      Reuniões       | Utilizado para fazer as reuniões e pontos de controle marcados pela equipe. |
 |   Github   |    Documentação     |           Onde será disponibilizado todo o projeto desenvolvido.            |
 
-# 8. Cronograma
+## 8. Cronograma
 
 O projeto está previsto para ser feito com duas entregas, sendo uma no meio da data estipulada, e uma no final do prazo.
 
@@ -65,7 +65,7 @@ O projeto está previsto para ser feito com duas entregas, sendo uma no meio da 
 
 
 
-# 9. Riscos
+## 9. Riscos
 
 Neste tópico será apresentado a tabela de riscos que foram levantados pela equipe durante o desenvolvimento do projeto, para que seja possível identificar tais problemas que podem ser prevenidos no futuro, quando possível.
 
@@ -76,14 +76,14 @@ Neste tópico será apresentado a tabela de riscos que foram levantados pela equ
 |                Indefinição do escopo                 | Manter os requisitos e o planejamento das sprints atualizados de forma constante |
 | Dificuldades da equipe com as tecnologias utilizadas |                      Realização de treinamentos via Discord                      |
 
-# 11. Stakeholders
+## 11. Stakeholders
 
-## 11.1 Usuários
+### 11.1 Usuários
 
 O projetor Cebraspe-tracker vai facilitar o processo do PAs/unb para os futuros aluno da universidade Universidade de Brasília, tendo em vista que para utilizar esse aplicativo tem quer ser inscrito para Pas/unb.
 
 
-# Referências
+## Referências
 
 > Documentação Acácia, 2019 - Termo de Abertura. Disponível em <[Termo de Abertura - Acácia](https://github.com/fga-eps-mds/2019.2-Acacia/blob/develop/docs/project_charter.md)>
 
