@@ -18,10 +18,10 @@ Neste documento estará armazenado informações acerca dos protótipos de baixa
 
   O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/file/rs895AnU1WtSaW2KDfVpxr/Cebrasp---Tracker), nele foi criado as premissas básicas do produto e as principais funcionalidades.
  
-![prototipo](assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade2.png)
+![prototipo](../assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade2.png)
 
 
-![prototipo](assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade.png)
+![prototipo](../assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade.png)
 
 ## 3.Protótipo de Alta Fidelidade
 
@@ -29,6 +29,6 @@ Neste documento estará armazenado informações acerca dos protótipos de baixa
 
 O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/file/rs895AnU1WtSaW2KDfVpxr/Cebrasp---Tracker).
  
-![prototipo](assets/Prototipos/AltaFidelidade/Prototipo.png)
-![prototipo](assets/Prototipos/AltaFidelidade/PrototipoDashboard.png)
-![prototipo](assets/Prototipos/AltaFidelidade/PrototipoHome.png)
+![prototipo](../assets/Prototipos/AltaFidelidade/Prototipo.png)
+![prototipo](../assets/Prototipos/AltaFidelidade/PrototipoDashboard.png)
+![prototipo](../assets/Prototipos/AltaFidelidade/PrototipoHome.png)

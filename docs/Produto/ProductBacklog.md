@@ -6,7 +6,7 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 | 28/07/2022 |   1.0   | Criação do Documento | [João Lucas](https://github.com/HacKairos)  |
 
-# Sumário
+## Sumário
 ----------------
 1. [Épicos](#1)
 2. [Histórias de Usuário](#2)
@@ -35,7 +35,3 @@ Funcionalidades da aplicação ligadas às funcionalidades que propiciam uma boa
 ## 2. <a name="2"> Histórias de Usuário</a>
 
 <img src="https://user-images.githubusercontent.com/57872849/181761590-7215aae2-ac5e-4028-9baa-219008e4fc4b.png"/>
-
-## 3. <a name="3"> Critérios de aceitação</a>
-
-Definir especificidades, como qual tipo de gráfico utilizar.

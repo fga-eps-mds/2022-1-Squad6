@@ -1,4 +1,4 @@
-# Documento de Metodologia
+# Metodologia
 
 ## Histórico de Revisão
 

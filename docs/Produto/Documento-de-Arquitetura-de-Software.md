@@ -45,22 +45,22 @@
 ### -Front-end:
    - React: É um conjunto de bibliotecas de código aberto seguro para a criação de UIs interativas de forma mais fácil. Toda lógica é escrita em JavaScript da Repassagem de dados ao longo da passagem de dados. Essa tecnologia foi escolhida por quantidade de conteúdo disponível na internet, para o treinamento e aprendizado da equipe, outro ponto positivo é o fórum de dúvidas acerca do assunto estar sempre a disposição.
    
-  ![React](assets/images/react.png)
+  ![React](../assets/images/react.png)
 ### -Back-end:
   - Django: REST framework (DRF) é um kit de ferramentas poderoso e flexível para construir APIs da Web. Seu principal benefício é que torna a serialização muito mais fácil.
 O framework Django REST é baseado nas visualizações baseadas em classes do Django, então é uma excelente opção se você estiver familiarizado com o Django. Ele adota implementações como visualizações baseadas em classes, formulários, validador de modelo, QuerySet e muito mais.
 
- ![Rest](assets/images/rest.png)
+ ![Rest](../assets/images/rest.png)
 
 ### -Scrapy-selenium:
    - Scrapy-selenium é um middleware que é usado em web scraping. scrapy não suporta a scraping dos sites modernos que usam estruturas javascript e esta é a razão pela qual esse middleware é usado com scrapy para crawl esses sites modernos. O Scrapy-selenium fornece as funcionalidades do selenium que ajudam no trabalho com sites javascript. Outra vantagem proporcionada por isso é o driver pelo qual também podemos ver o que está acontecendo nos bastidores. Como o selênium é uma ferramenta automatizada, ele também nos fornece como lidar com tags de entrada e scrap de acordo com o que você passa no campo de entrada.
    
- ![Diagrama de classes](assets/images/scrapy.png)
+ ![Diagrama de classes](../assets/images/scrapy.png)
  
 ## 5.Diagrama de caso de uso
  - Usuário(Aluno) do sistema que terá acesso, após a autenticação, tera a opção de receber o tipo de notificação que ele deseja receber.
   
-  ![React](assets/images/documento-de-casoUso.png)
+  ![React](../assets/images/documento-de-casoUso.png)
 
 
 
@@ -68,16 +68,16 @@ O framework Django REST é baseado nas visualizações baseadas em classes do Dj
 ## 6.Diagrama de Classes
    - Essa é a primeira versão das classes no diagrama de classe do projeto Cebraspe-Tracker.
   
-  ![Diagrama de classes](assets/images/DiagramaDeClasses.png)
+  ![Diagrama de classes](../assets/images/DiagramaDeClasses.png)
   
 
 
 ## 7.Diagrama de Pacotes
    - Essa é a primeira versão das classes no diagrama de Pacotes do projeto Cebraspe-Tracker.
   
-  ![Diagrama do Pacotes](assets/images/DiagramaDePacotes.png)
-  ![Diagrama do Pacotes2](assets/images/DiagramaDePacotes2.png)
-  ![Diagrama do Pacotes3](assets/images/Diagrama_depacote_3.png)
+  ![Diagrama do Pacotes](../assets/images/DiagramaDePacotes.png)
+  ![Diagrama do Pacotes2](../assets/images/DiagramaDePacotes2.png)
+  ![Diagrama do Pacotes3](../assets/images/Diagrama_depacote_3.png)
   
 
     

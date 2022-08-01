@@ -14,3 +14,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   logo: assets/images/favicon.png
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.top
