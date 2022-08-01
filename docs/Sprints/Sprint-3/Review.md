@@ -15,7 +15,7 @@ Início | Fim | Duração | Membros ausentes
 ## Tarefas Realizadas
 
 | Tarefa | Concluída? |
-| ------ | :--------: |
+| :------: | :--------: |
 | [Prototipo de baixa fidelidade](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/12) | ✔ |
 | [Redefinição de tecnologia](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/13) | ✔ |
 | [Documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/14) | ✔ |

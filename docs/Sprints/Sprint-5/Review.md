@@ -14,8 +14,8 @@ Início | Fim | Duração | Membros ausentes
 
 ## Tarefas Realizadas
 
-| Tarefa | Concluída? |
-| ------ | :--------: |
+| Tarefa | Concluída ? |
+| :------: | :--------: |
 | [Configurar github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/24) | ✔ |
 | [Implementacao do 2º Web crawler](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/25) | ✔ |
 | [Revisao do documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/26) | ✔ |

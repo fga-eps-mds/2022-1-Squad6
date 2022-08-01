@@ -30,7 +30,7 @@ E deixar mais palpavel o visao sobre o projeto
 ## 4. Issues
 
 | Issues | Resposáveis |
-| --- | --- |
+| :------: | --- |
 | [Configurar github pages](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/24) | João Lucas |
 | [Implementacao do 2º Web crawler](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/25) | Hannan |
 | [Revisao do documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/26) | Hannan |

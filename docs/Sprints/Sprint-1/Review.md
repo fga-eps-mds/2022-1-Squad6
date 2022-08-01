@@ -15,7 +15,7 @@ Início | Fim | Duração | Membros ausentes
 ## Tarefas Realizadas
 
 | Tarefa | Concluída? |
-| ------ | :--------: |
+| :------: | :--------: |
 | [Treinamento de GitHub](https://github.com/fga-eps-mds/2022-1-Squad6/issues/1) | ✔ |
 | [Introdução ao documento de arquitetura](https://github.com/fga-eps-mds/2022-1-Squad6/issues/2) | ✔ |
 | [Template de Issues](https://github.com/fga-eps-mds/2022-1-Squad6/issues/3) | ✔ |

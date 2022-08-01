@@ -30,7 +30,7 @@ Desenvolvedor | Asafe & Gabriel
 ## 4. Issues
 
 Issues | Descrição | Resposáveis
------- | --------- | -----------
+:------: | --------- | -----------
 Documentação da sprint 2 | Criar a documentação da primeira semana de projeto. | [João Lucas](https://github.com/HacKairos)
 Configurar o ambiente em todas as maquinas | Configurar o ambiente em suas respectivas maquinas pessoais. | Todos alunos
 Capacitação/Estudo sobre Elixir | Aprender as funcionalidades basicas do Elixir. | Todos alunos

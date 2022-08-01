@@ -25,7 +25,7 @@ Documentar caracteristicas do projeto
 ## 4. Issues
 
 Issues |  Resposáveis
------- |   -----------
+:------: |   -----------
 [Documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/14) | Hannan
 [Ambientação Presente no github](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/15) | Gabriel 
 [Documento de visão](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/17) | Matheus 

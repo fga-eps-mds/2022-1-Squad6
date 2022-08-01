@@ -15,7 +15,7 @@ Início | Fim | Duração | Membros ausentes
 ## Tarefas Realizadas
 
 | Tarefa | Concluída? |
-| ------ | :--------: |
+| :------: | :--------: |
 | [Capacitação/Estudo sobre Phoenix](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/7) | ✔ |
 | [Capacitação/Estudo do Docker](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/8) | ✔ |
 | [Capacitação/Estudo sobre Elixir](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/9) | ✔ |

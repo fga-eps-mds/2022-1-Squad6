@@ -15,7 +15,7 @@ Início | Fim | Duração | Membros ausentes
 ## Tarefas Realizadas
 
 | Tarefa | Concluída? |
-| ------ | :--------: |
+| :------: | :--------: |
 [Documento de arquitetura](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/14) | ✔
 [Ambientação Presente no github](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/15) | ✔
 [Documento de visão](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues/17) | ✔

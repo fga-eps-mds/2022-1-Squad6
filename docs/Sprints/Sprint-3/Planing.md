@@ -24,7 +24,7 @@ Desenvolvedor | Asafe & Gabriel
 ## 4. Issues
 
 Issues | Descrição | Resposáveis
------- | --------- | -----------
+:------: | --------- | -----------
 Prototipo de baixa fidelidade | Criação do primeiro prototipo do projeto. | Asafe
 Redefinição de tecnologia | Abrir a oportunidade final para a troca da tecnologia escolhida. | Todos
 Documento de arquitetura | Criação do documento de arquitetura e adição dos diagramas. | Abdul

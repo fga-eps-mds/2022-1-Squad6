@@ -31,7 +31,7 @@ Desenvolvedor | Asafe & Gabriel
 ## 4. Issues
 
 Issues | Descrição | Resposáveis
- ----- | -------- | ----------- 
+ :------: | -------- | ----------- 
 Treinamento GitHub | Participar do treinamento oferecido pelo monitor | Toda a equipe
 Estudo sobre Scrum | Estudar o papel do Scrum pelo material disponibilizado | Toda a equipe
 Estudo do Documento de Arquitetura | Estudar como criar um documento de arquitetura |Hannan
