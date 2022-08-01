@@ -9,8 +9,8 @@ theme:
     text: Roboto
   palette:
     scheme: slate
-    primary: teal
-    accent: light blue
+    primary: deep purple
+    accent: teal
   icon:
     repo: fontawesome/brands/github
   logo: assets/images/favicon.png
