@@ -154,4 +154,6 @@ Alunos que fazem parte do projeto 😎💦
 
 Este projeto esta sobe a licença [MIT](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/LICENSE).
 
+## 🥇 Badges
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/HacKairos/Cebraspe-Tracker?branch=main)](https://bettercodehub.com/)
