@@ -4,7 +4,7 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 21/07/2021 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 1 | 1.0    |
+| 21/06/2021 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 1 | 1.0    |
 
 ## Visão Geral
 

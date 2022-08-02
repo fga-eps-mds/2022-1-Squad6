@@ -10,7 +10,7 @@
 
 Início | Fim | Duração | Membros ausentes
  ------ | --- | ------- | --------
- 27/06/22 | 01/06/22 | 5 dias | Nenhum
+ 27/06/22 | 01/07/22 | 5 dias | Nenhum
 
 ## Tarefas Realizadas
 
