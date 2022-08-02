@@ -1,4 +1,4 @@
-
+[![BCH compliance](https://bettercodehub.com/edge/badge/HacKairos/Cebraspe-Tracker?branch=main)](https://bettercodehub.com/)
 <h1 align="center">
     Cebraspe Tracker
 </h1>
