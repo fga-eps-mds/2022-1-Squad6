@@ -4,13 +4,13 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 18/08/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 5 | 1.0    |
+| 18/07/2022 | [João Lucas Pinto Vasconcelos](https://github.com/HacKairos) | Planejamento da sprint 5 | 1.0    |
 
 ## Visão Geral
 
 | Início | Fim | Duração |
 | --- | --- | --- |
-| 18/08/22 | 24/08/22 | 7 dias |
+| 18/07/22 | 24/07/22 | 7 dias |
 
 ## Papéis
 
