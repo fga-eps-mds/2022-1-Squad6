@@ -100,16 +100,13 @@ $ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Front.git
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Cebraspe-Tracker-Front
 
-# Vá para a pasta da aplicação Front End
-$ cd ctracker
-
 # Instale as dependências
 $ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn start
+$ yarn dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:3000 - acesse http://localhost:5173/
 
 ```
 
