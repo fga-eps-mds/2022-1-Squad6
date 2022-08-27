@@ -6,7 +6,7 @@
 import scrapy
 
 
-class CebraspecrawlerItem(scrapy.Item):
+class Spider3Item(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
