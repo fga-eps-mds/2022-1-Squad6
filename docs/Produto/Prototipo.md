@@ -8,11 +8,11 @@
 |17/07/2022|2.0|construção do Protótipo de Alta fidelidade|[Asafe souza](https://github.com/asafesouza)|
 |28/07/2022|2.1|construção do documento Protótipo.md para usar na página do githubpage|[abdul hannan](https://github.com/hannanhunny01)|
 
-## 1.Introdução
+## Introdução
 
 Neste documento estará armazenado informações acerca dos protótipos de baixa e alta fidelidade, criados para ajudar no desenvolvimento do Cebraspe-crawler.
 
-## 2.Protótipo de Baixa Fidelidade
+## Protótipo de Baixa Fidelidade
  
  O protótipo de baixa fidelidade tem o intuito de auxiliar a equipe a desenvolver estratégias e sintetizar as ideias do grupo, visando de uma maneira simples    demonstrar como será a interação do usuário com o produto.
 
@@ -23,7 +23,7 @@ Neste documento estará armazenado informações acerca dos protótipos de baixa
 
 ![prototipo](../assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade.png)
 
-## 3.Protótipo de Alta Fidelidade
+## Protótipo de Alta Fidelidade
 
   O protótipo de alta fidelidade foi feito o mais próximo possível da verdadeira representação gráfica do Site para projeto cebraspe crawler.
 
@@ -31,4 +31,3 @@ O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/fil
  
 ![prototipo](../assets/Prototipos/AltaFidelidade/Prototipo.png)
 ![prototipo](../assets/Prototipos/AltaFidelidade/PrototipoDashboard.png)
-![prototipo](../assets/Prototipos/AltaFidelidade/PrototipoHome.png)

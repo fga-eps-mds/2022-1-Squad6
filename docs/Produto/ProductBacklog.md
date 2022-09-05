@@ -10,9 +10,8 @@
 ----------------
 1. [Épicos](#1)
 2. [Histórias de Usuário](#2)
-3. [Critérios de Aceitação](#3)
 
-## 1. <a name="1"> Épicos</a>
+## <a name="1"> Épicos</a>
 
 #### EP01: Perfis
 Funcionalidades da aplicação ligadas á login & navegação.
@@ -32,6 +31,6 @@ Funcionalidades comunicação entre a plataforma e os clientes.
 #### EP07: Navegação
 Funcionalidades da aplicação ligadas às funcionalidades que propiciam uma boa navegação no site.
 
-## 2. <a name="2"> Histórias de Usuário</a>
+## <a name="2"> Histórias de Usuário</a>
 
 <img src="https://user-images.githubusercontent.com/57872849/181761590-7215aae2-ac5e-4028-9baa-219008e4fc4b.png"/>

@@ -51,52 +51,46 @@ Este projeto é divido em três partes:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com), [Django](https://www.djangoproject.com). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Backend (servidor)
+#### 🎲 Rodando o Backend
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker.git
+$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Source.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Cebraspe-Tracker/Projeto
-
-# Vá para a pasta server
-$ cd ctracker
+$ cd Cebraspe-Tracker-Source/BackEnd
 
 # Instale as dependências
-$ sudo docker compose build
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ sudo docker compose up
+$ npm run dev
 
-# O servidor inciará na porta:8000 - acesse http://localhost:8000 
+# O servidor inciará na porta:3001 - acesse http://localhost:3001 
 
 ```
 
-### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando o Frontend
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Front.git
+$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Source.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Cebraspe-Tracker-Front
-
-# Vá para a pasta da aplicação Front End
-$ cd ctracker
+$ cd Cebraspe-Tracker-Source/FrontEnd
 
 # Instale as dependências
-$ yarn
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn start
+$ npm run dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000/
 
 ```
 
