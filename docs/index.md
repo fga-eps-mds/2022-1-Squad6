@@ -100,15 +100,14 @@ $ npm run dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([Reactjs](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website**  ([Reactjs](https://reactjs.org/)  +  [JavaScript](https://www.typescriptlang.org/))
 
 
-#### [](https://github.com/fga-eps-mds/Cebraspe-Tracker)**Server**  ([Django](https://www.djangoproject.com)  +  [Python](https://www.python.org)
+#### [](https://github.com/fga-eps-mds/Cebraspe-Tracker)**Server**  ([React Express]() + [JavaScript]()
 
 -   **[Selenium](https://www.selenium.dev)**
 -   **[Scrapy](https://scrapy.org)**
--   **[Docker](https://www.docker.org)**
--   **[PostgreSQL](https://www.postgresql.org)**
+-   **[MongoDB](https://www.postgresql.org)**
 
 
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
