@@ -1,4 +1,4 @@
-# Security Policy
+# Politica de Segurança
 
 ## Supported Versions
 
@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0  | :white_check_mark: |
+| 1.0  | ✔ |
 
 ## Reporting a Vulnerability
 

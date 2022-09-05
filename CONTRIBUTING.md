@@ -1,18 +1,20 @@
-# O que fazer antes de Contribuir?
+# Politica de Contribuição
+
+## O que fazer antes de Contribuir?
 
 * Acesse os repositórios do projeto no GitHub:
     * [Repositório Cebraspe Tracker - Back-end](https://github.com/fga-eps-mds/Cebraspe-Tracker);
     * [Repositório Cebraspe Tracker - Front-end](https://github.com/fga-eps-mds/Cebraspe-Tracker-front).
-* Acesse a [GitHub Page]() do projeto para saber mais sobre seus fundamentos
+* Acesse a [GitHub Page](https://fga-eps-mds.github.io/Cebraspe-Tracker/#/) do projeto para saber mais sobre seus fundamentos
  e propósitos.
 
 
-# Como Contribuir?
+## Como Contribuir?
 
-* Leia o [Código de Conduta]() do projeto;
-* Veja as [Políticas]() do projeto.
+* Leia o [Código de Conduta](https://fga-eps-mds.github.io/Cebraspe-Tracker/Politicas/CODE_OF_CONDUCT/) do projeto;
+* Veja as [Políticas](https://fga-eps-mds.github.io/Cebraspe-Tracker/Politicas/BRANCH/) do projeto.
 
-## Reportando um Bug
+### Reportando um Bug
 
 * Verifique se não há nenhuma [_Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues) relacionada a essa modificação.
 
@@ -22,7 +24,7 @@
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
-## Adicionando e/ou alterando alguma Funcionalidade
+### Adicionando e/ou alterando alguma Funcionalidade
 
 * Verifique se não há nenhuma [_Issue_](https://github.com/fga-eps-mds/Cebraspe-Tracker/issues) relacionada a essa modificação;
 
@@ -32,4 +34,4 @@
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
-## Obrigado pela Contribuição! 😊
+### Obrigado pela Contribuição! 😊

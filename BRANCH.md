@@ -1,10 +1,12 @@
+# Politica de Branch
+
 ## Histórico de Revisão
 
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 | 28/07/2022 |   1.0   | Criação do Documento            |   [João Lucas](https://github.com/HacKairos)  |
 
-# Criação de _Branches_
+## Criação de _Branches_
 
 ![image](https://user-images.githubusercontent.com/57872849/181653398-26fa46ee-f50c-4b36-a94c-5c7b89bfa603.png)
 

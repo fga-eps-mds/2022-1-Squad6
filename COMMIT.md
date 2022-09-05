@@ -1,10 +1,12 @@
+# Politica de Commit
+
 ## Histórico de Revisão
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 28/07/2022 |   1.0   | Criação do Documento | [João Lucas](https://github.com/HacKairos)  |
 
-# Criação de _commits_
+## Criação de _commits_
 
 &emsp;&emsp;Os _commits_ devem seguir o seguinte padrão:
 

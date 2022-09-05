@@ -47,7 +47,7 @@ O layout da aplicação está disponível no Figma:
 ### 🖥 Pagina Web 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CebraspTracker" title="#CebraspeTracker" src="../Docs/Prototipos/AltaFidelidade/PrototipoDashboard.png" width="600px">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="Assets/Prototipos/AltaFidelidade/PrototipoDashboard.png" width="600px">
 
 </p>
 
@@ -64,67 +64,63 @@ Este projeto é divido em três partes:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.com), [Django](https://www.djangoproject.com). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o Backend (servidor)
+#### 🎲 Rodando o Backend
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker.git
+$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Source.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Cebraspe-Tracker/Projeto
-
-# Vá para a pasta server
-$ cd ctracker
+$ cd Cebraspe-Tracker-Source/BackEnd
 
 # Instale as dependências
-$ sudo docker compose build
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ sudo docker compose up
+$ npm run dev
 
-# O servidor inciará na porta:8000 - acesse http://localhost:8000 
+# O servidor inciará na porta:3001 - acesse http://localhost:3001 
 
 ```
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando o Frontend
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Front.git
+$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Source.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Cebraspe-Tracker-Front
+$ cd Cebraspe-Tracker-Source/FrontEnd
 
 # Instale as dependências
-$ yarn
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn dev
+$ npm run dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:5173/
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000/
 
 ```
 
 ---
 
-## 🛠 Tecnologias
+## 🔬 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([Reactjs](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website**  ([Reactjs](https://reactjs.org/)  +  [JavaScript](https://www.typescriptlang.org/))
 
 
-#### [](https://github.com/fga-eps-mds/Cebraspe-Tracker)**Server**  ([Django](https://www.djangoproject.com)  +  [Python](https://www.python.org)
+#### [](https://github.com/fga-eps-mds/Cebraspe-Tracker)**Server**  ([React Express]() + [JavaScript]()
 
 -   **[Selenium](https://www.selenium.dev)**
 -   **[Scrapy](https://scrapy.org)**
--   **[Docker](https://www.docker.org)**
--   **[PostgreSQL](https://www.postgresql.org)**
+-   **[MongoDB](https://www.postgresql.org)**
 
 
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**

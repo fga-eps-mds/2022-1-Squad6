@@ -40,9 +40,3 @@ mídia social oficial, ou agir como um representante designado num evento online
 <p align = "justify"> &emsp;&emsp;Comportamento abusivo, de assédio ou de outros tipos pode ser comunicado contatando a equipe do projeto <b>vamoscuidar.unb@gmail.com</b>. Todas as queixas serão revistas e investigadas e resultarão numa resposta necessária e apropriada à situação. A equipe é obrigada a manter a confidencialidade em relação ao elemento que reportou o incidente. Demais detalhes de políticas de aplicação podem ser postadas separadamente.</p>
 
 <p align = "justify"> &emsp;&emsp; Administradores do projeto que não sigam ou não mantenham o Código de Conduta em boa fé podem enfrentar repercussões temporárias ou permanentes determinadas por outros membros da liderança do projeto.</p>
-
-
-## Atribuição
-
-Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org),
-versão 1.4, disponível em https://www.contributor-covenant.org/pt-br/version/1/4/code-of-conduct.html
