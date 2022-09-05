@@ -405,19 +405,25 @@
     Pré-requisitos
   </a>
   
-</li>
+    <nav class="md-nav" aria-label="Pré-requisitos">
+      <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#rodando-o-backend-servidor" class="md-nav__link">
-    🎲 Rodando o Backend (servidor)
+  <a href="#rodando-o-backend" class="md-nav__link">
+    🎲 Rodando o Backend
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#rodando-a-aplicacao-web-frontend" class="md-nav__link">
-    🧭 Rodando a aplicação web (Frontend)
+  <a href="#rodando-o-frontend" class="md-nav__link">
+    🧭 Rodando o Frontend
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -1358,19 +1364,25 @@
     Pré-requisitos
   </a>
   
-</li>
+    <nav class="md-nav" aria-label="Pré-requisitos">
+      <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#rodando-o-backend-servidor" class="md-nav__link">
-    🎲 Rodando o Backend (servidor)
+  <a href="#rodando-o-backend" class="md-nav__link">
+    🎲 Rodando o Backend
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#rodando-a-aplicacao-web-frontend" class="md-nav__link">
-    🧭 Rodando a aplicação web (Frontend)
+  <a href="#rodando-o-frontend" class="md-nav__link">
+    🧭 Rodando o Frontend
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -1493,46 +1505,40 @@
 <p>💡O Frontend precisa que o Backend esteja sendo executado para funcionar.</p>
 <h3 id="pre-requisitos">Pré-requisitos</h3>
 <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-<a href="https://git-scm.com">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://www.docker.com">Docker</a>, <a href="https://www.djangoproject.com">Django</a>. 
+<a href="https://git-scm.com">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>. 
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a></p>
-<h3 id="rodando-o-backend-servidor">🎲 Rodando o Backend (servidor)</h3>
+<h4 id="rodando-o-backend">🎲 Rodando o Backend</h4>
 <pre><code class="language-bash">
 # Clone este repositório
-$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker.git
+$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Source.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Cebraspe-Tracker/Projeto
-
-# Vá para a pasta server
-$ cd ctracker
+$ cd Cebraspe-Tracker-Source/BackEnd
 
 # Instale as dependências
-$ sudo docker compose build
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ sudo docker compose up
+$ npm run dev
 
-# O servidor inciará na porta:8000 - acesse http://localhost:8000 
+# O servidor inciará na porta:3001 - acesse http://localhost:3001 
 
 </code></pre>
-<h3 id="rodando-a-aplicacao-web-frontend">🧭 Rodando a aplicação web (Frontend)</h3>
+<h4 id="rodando-o-frontend">🧭 Rodando o Frontend</h4>
 <pre><code class="language-bash">
 # Clone este repositório
-$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Front.git
+$ git clone https://github.com/fga-eps-mds/Cebraspe-Tracker-Source.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Cebraspe-Tracker-Front
-
-# Vá para a pasta da aplicação Front End
-$ cd ctracker
+$ cd Cebraspe-Tracker-Source/FrontEnd
 
 # Instale as dependências
-$ yarn
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn start
+$ npm run dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000/
 
 </code></pre>
 <hr />
