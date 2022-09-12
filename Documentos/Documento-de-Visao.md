@@ -2,13 +2,14 @@
 
 ## Histórico de revisão
 
-| Data       | Versão | Descrição                      | Autor(es)                                                  |
-| ---------- | ------ | ------------------------------ | ---------------------------------------------------------- |
-| 15/07/2022 | 0.1    | Abertura do documento de Visão | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| 16/07/2022 | 0.2    | Adição dos tópicos 1, 2 e 3    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| 17/07/2022 | 0.3    | Adição dos tópicos 4, 5 e 6    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| 24/07/2022 | 1.0    | Adição do tópico 7             | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| 25/07/2022 | 1.0    | Atualizacao do tópico 7             | [Abdul Hannan](https://github.com/hannanhunny01) |
+| Data       | Versão | Descrição                         | Autor(es)                                                  |
+| ---------- | ------ | --------------------------------- | ---------------------------------------------------------- |
+| 15/07/2022 | 0.1    | Abertura do documento de Visão    | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 16/07/2022 | 0.2    | Adição dos tópicos 1, 2 e 3       | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 17/07/2022 | 0.3    | Adição dos tópicos 4, 5 e 6       | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 24/07/2022 | 1.0    | Adição do tópico 7                | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| 25/07/2022 | 1.1    | Atualização do tópico 7           | [Abdul Hannan](https://github.com/hannanhunny01)           |
+| 12/09/2022 | 1.2    | Atualização e revisão ortográfica | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 
 ## Introdução
 
@@ -18,7 +19,7 @@ O objetivo deste documento é detalhar as etapes do desenvolvimento do projeto C
 
 ### Escopo
 
-Cebaspre tracker é a solução perfeita para estudantes que estao em processo seletivo tanto pra ajudar as pessoas que perdem sua vaga por falta de entendiento sobre o processo seletivo tanto quanto as pessoas que sofrem de uma ansiedade pesada, para poder tranquiliza-las e tirar das costas dessas pessoas o peso de ficar atualizando todos os dias a pagina do concurso público PAS.
+Cebaspre tracker é a solução perfeita para estudantes que estão em processo seletivo tanto para ajudar as pessoas que perdem sua vaga por falta de entendiento sobre o processo seletivo quanto para as pessoas que sofrem de uma ansiedade pesada, para poder tranquilizá-las e tirar das costas dessas pessoas o peso de ficar atualizando todos os dias a página do concurso público PAS.
 
 ### Definições, acrônimos e abreviações
 
@@ -27,6 +28,7 @@ Cebaspre tracker é a solução perfeita para estudantes que estao em processo s
 | _UnB_      | Universidade de Brasília                             |
 | _FGA_      | Faculdade UnB Gama                                   |
 | _MDS_      | Métodos de Desenvolvimento de Software               |
+| _PAS_      | Programa de Avaliação Seriada                        |
 
 ## Posicionamento
 
@@ -65,7 +67,7 @@ Destinado a pessoas que estão à espera do resultado do processo seletivo, a fi
 
 | Usuário | Necessidade | Solução Atual | Solução Proposta |
 | ------- | ----------- | ------------- | ---------------- |
-| Estudantes | Meio de notificar sobre chamadas em andamento | Verificar constantemente a página do Cebraspe | Enviar notifiação por e-mail |
+| Estudantes | Meio de notificar sobre chamadas em andamento | Verificar constantemente a página do Cebraspe | Enviar notifiação por e-mail e WhatsApp |
 
 ### Ambiente dos Usuários
 
@@ -95,13 +97,13 @@ Os usuários poderão utilizar a aplicação por meio de navegadores web.
 
 ### Perspectiva do Produto
 
-O Projeto visa ser um facilitador do uso da plataforma do Cebraspe, dando segurança e praticidade aos alunos que estão à espera de uma chamada em processos seletivos. Para isso será utilizado a lista que será disponibilizada pelo próprio site, para que se possa realizar uma busca pelo nome de forma automatizada e notificar o usuário via e-mail.
+O Projeto visa ser um facilitador do uso da plataforma do Cebraspe, dando segurança e praticidade aos alunos que estão à espera de uma chamada em processos seletivos. Para isso será utilizado a lista que será disponibilizada pelo próprio site, para que se possa realizar uma busca pelo nome de forma automatizada e notificar o usuário via e-mail e WhatsApp.
 
 ### Resumo das capacidades
 
 | Benefício para o Usuário | Recursos de suporte |
 | ------------------------ | ------------------- |
-| Facilidade em se cadastrar | A aplicação disponibiliza uma interface com um campo para preenchimento do nome, e-mail e telefone, o usuário não terá a necessidade de criar uma conta |
+| Facilidade em se cadastrar | A aplicação disponibiliza uma interface com um campo para preenchimento do nome, e-mail e telefone |
 | Segurança na busca pelo nome | A aplicação notificará o estudante em caso deste ser chamado em um processo seletivo |
 
 ### Funções do Produto
@@ -116,7 +118,7 @@ O projeto está encarregado de notificar o usuário caso o nome conste na lista 
 ## Recursos do Produto
 
 Os usuários interessados no projeto terão acesso ao seguinte recurso:
-- Ser notificado via e-mail, caso seja chamado.
+- Ser notificado via e-mail e WhatsApp, caso seja chamado.
 
 ## Restrições
 
@@ -128,7 +130,7 @@ Listagem de restrições externas e outras dependências:
 
 ### Restrições de Implementação
 
-O sistema será implementado utilizando 2 principais tecnologias, sendo elas Django para o backend, webcrawler para leitura do html e React.js para o frontend.
+O sistema será implementado utilizando 3 principais tecnologias, sendo elas Django para o backend, webcrawler para leitura do html e React.js para o frontend.
 
 ### Restrições externas
 
@@ -150,16 +152,16 @@ Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedore
 | ------------- | --------- | ---------- |
 | RF1           | Deve ser possível realizar o CRUD de Usuário | Alta |
 | RF2           | O Aplicativo deve ter um Sistema para Login | Alta |
-|RF3            | Deve ter uma opção, Caso o usuário queira receber apenas notificações sobre a Chamadas ou todas as atualizações no site da SubPrograma/PAS.|media|
-| RF4           | Deve ter um recurso para enviar mensagem ao usuário se o nome dele for encontrado na chamada do cebraspe/pas. | Alta |
-| RF5           | O nome deve ser retirado da pool de inscritos caso ele tenha sido chamado | Media |
-| RF6           | Se houver nova chamada de convocados o sistema devera notificar o usuários por e-mail ou sms/whatsapp | Media |
+|RF3            | Deve ter uma opção que permita o usuário escolher se quer receber apenas notificações sobre chamadas ou todas as atualizações no site do SubPrograma/PAS | Média |
+| RF4           | Deve ter um recurso para enviar mensagem ao usuário se o nome dele for encontrado na chamada do Cebraspe/PAS | Alta |
+| RF5           | O nome deve ser retirado da pool de inscritos, caso ele tenha sido chamado | Média |
+| RF6           | Se houver nova chamada de convocados o sistema devera notificar o usuários por e-mail ou sms/whatsapp | Média |
 | RF7           | O primeiro web crawler deverá ler o html, identificar e salvar o link das consultas online no banco de dados | Alta |
-| RF8           | O segundo web crawler deverá ser capaz de pesquisar todos os nomes cadastrado e utilizá-lo como parâmetro para busca nos chamadas do subprograma do PAS | Alta |
-| RF9           | O segundo crawler deve pesquisar o nome do usuário registrados na barra de pesquisa da chamada/PAS e verificar na html e se encontrar o nome da pessoa atualize na sistema | Alta |
-| RF10           | Para subprogramas do Pas que estão tendo chamada de convocados ou terão em futuro deveria ter crawlers implementado que deve funcionar de forma autónoma | Media |
-| RF11           | Deve ter um crawler que rodar todos os dias para verificar se tem uma nova atualização no site | Media |
-| RF12           | Se tera atualizacao no edital do PAS crawler1 deve rodar para encontrar novo link para novo Chamada | Alta |
+| RF8           | O segundo web crawler deverá ser capaz de pesquisar todos os nomes cadastrados e utilizá-los como parâmetro para busca nos chamadas do subprograma do PAS | Alta |
+| RF9           | O segundo crawler deve pesquisar o nome do usuário registrado na barra de pesquisa da chamada/PAS, verificar no html e, se encontrar o nome da pessoa, atualizar no sistema | Alta |
+| RF10           | Para subprogramas do PAS que estão tendo chamada de convocados ou terão no futuro, deve ter um crawler implementado, que deve funcionar de forma autônoma | Média |
+| RF11           | Deve ter um crawler que roda todos os dias para verificar se há uma nova atualização no site | Média |
+| RF12           | Se houver atualização no edital do PAS, o primeiro crawler deve rodar para encontrar o novo link para a nova chamada | Alta |
 
 
 ### Requisitos não-funcionais
@@ -168,7 +170,7 @@ Visando uma maior manutenibilidade do projeto pela comunidade, os desenvolvedore
 | ------------- | --------- | ---------- |
 | RNF1          | A interação com o usuário deve ser feita por meio de interface gráfica | Alta |
 | RNF2          | O software será desenvolvido para ambiente web | Alta |
-| RNF3          | O software deverá ser desenvolvido utilizando React.js,HTML,CSS3 e TypeScript para o Frontend | Alta |
+| RNF3          | O software deverá ser desenvolvido utilizando React.js, HTML, CSS3 e TypeScript para o Frontend | Alta |
 | RNF4          | O software deverá ser desenvolvido utilizando React express | Alta |
 | RNF5          | O software deverá ser desenvolvido utilizando o Mongodb como banco de dados | Alta |
 | RNF6          | O software deverá ser desenvolvido utilizando Scrapy e MIDDLEWARE com SELENIUM E SPLASH para o web crawler | Alta |
