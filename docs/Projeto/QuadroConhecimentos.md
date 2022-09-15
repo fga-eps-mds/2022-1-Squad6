@@ -11,24 +11,24 @@
 
 ### No inicio do projeto 
 
-![Quadro Inicial](/assets/images/quadroDeConhecimentoInicialNovo.png)
+![Quadro Inicial](../assets/images/quadroDeConhecimentoInicialNovo.png)
 
 ### Atualmente
 
-![Quadro Final](/assets/images/QuadroDeConhecimentoAgoraNovo.png)
+![Quadro Final](../assets/images/QuadroDeConhecimentoAgoraNovo.png)
 
 ## Graficos Individuais
 
 ### Abdul Hannan
-![Abdul](/assets/images/AbulhannanNovo_.png)
+![Abdul](../assets/images/AbulhannanNovo_.png)
 
 ### Asafe de Souza
-![Asafe](/assets/images/AsafeSouzaNovo_.png)
+![Asafe](../assets/images/AsafeSouzaNovo_.png)
 
 ### Gabriel
-![Gabriel](/assets/images/GabrielNovo.png)
+![Gabriel](../assets/images/GabrielNovo.png)
 
 ### Matheus
-![Matheus](/assets/images/MatheusHenrickNovo_.png)
+![Matheus](../assets/images/MatheusHenrickNovo_.png)
 ### João Lucas
-![Joao](/assets/images/JoaoLucasNovo_.png)
+![Joao](../assets/images/JoaoLucasNovo_.png)

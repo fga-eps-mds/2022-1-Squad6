@@ -30,6 +30,4 @@ Funcionalidade que permite o usuario a tirar duvidas com a plataforma.
 
 ## <a name="2"> Histórias de Usuário</a>
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Product" title="#ProductBacklog" src="/../assets/images/EstoriasUsuario.png">
-</p>
+![Product](../assets/images/EstoriasUsuario.png)

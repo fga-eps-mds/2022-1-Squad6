@@ -54,16 +54,16 @@
 ### Front-end
    - ReactJs: É um conjunto de bibliotecas de código aberto seguro para a criação de UIs interativas de forma mais fácil. Toda lógica é escrita em JavaScript da Repassagem de dados ao longo da passagem de dados. Essa tecnologia foi escolhida por quantidade de conteúdo disponível na internet, para o treinamento e aprendizado da equipe, outro ponto positivo é o fórum de dúvidas acerca do assunto estar sempre a disposição.
    
-  ![React](/assets/images/react.png)
+  ![React](../assets/images/react.png)
 ### Back-end
   - Express é uma estrutura de aplicativo da Web node js que fornece recursos amplos para a criação de aplicativos da Web e móveis. Ele é usado para criar um aplicativo Web de página única, de várias páginas e híbrido
 
- ![Rest](/assets/images/expressjs.png)
+ ![Rest](../assets/images/expressjs.png)
 
 ### Scrapy-selenium
    - Scrapy-selenium é um middleware que é usado em web scraping. scrapy não suporta a scraping dos sites modernos que usam estruturas javascript e esta é a razão pela qual esse middleware é usado com scrapy para crawl esses sites modernos. O Scrapy-selenium fornece as funcionalidades do selenium que ajudam no trabalho com sites javascript. Outra vantagem proporcionada por isso é o driver pelo qual também podemos ver o que está acontecendo nos bastidores. Como o selênium é uma ferramenta automatizada, ele também nos fornece como lidar com tags de entrada e scrap de acordo com o que você passa no campo de entrada.
    
- ![Diagrama de classes](/assets/images/scrapy.png)
+ ![Diagrama de classes](../assets/images/scrapy.png)
 
 
 ## Diagrama de caso de uso
@@ -71,7 +71,7 @@
 <div id='Caso'/>
   - Usuário(Aluno) do sistema que terá acesso, após a autenticação, tera a opção de receber o tipo de notificação que ele deseja receber.
   
-  ![React](/assets/images/documento-de-casoUso.png)
+  ![React](../assets/images/documento-de-casoUso.png)
 
 
 
@@ -79,7 +79,7 @@
 <div id='Diagrama de Classes'/>
    - Essa é a versão final das classes no diagrama de classe do projeto Cebraspe-Tracker.
   
-  ![Diagrama de classes](/assets/images/DiagramaDeClasses.png)
+  ![Diagrama de classes](../assets/images/DiagramaDeClasses.png)
   
 
 
@@ -87,10 +87,10 @@
 <div id='Diagrama de Pacotes'/>
    - Essa é a  versão final do diagrama de Pacotes do projeto Cebraspe-Tracker.
   
-  ![Diagrama do Pacotes](/assets/images/DiagramdePacotesNovo.png)
-  ![Diagrama do Pacotes2](/assets/images/DiagramaDePacotes2.png)
-  ![Diagrama do Pacotes3](/assets/images/Diagrama_depacote_3-cortado.png)
-  ![Diagrama do Pacotes4](/assets/images/back-end.png)
+  ![Diagrama do Pacotes](../assets/images/DiagramdePacotesNovo.png)
+  ![Diagrama do Pacotes2](../assets/images/DiagramaDePacotes2.png)
+  ![Diagrama do Pacotes3](../assets/images/Diagrama_depacote_3-cortado.png)
+  ![Diagrama do Pacotes4](../assets/images/back-end.png)
   
 
     
