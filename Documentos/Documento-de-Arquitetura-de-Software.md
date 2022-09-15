@@ -9,6 +9,7 @@
 |25/07/2022 |1.2| Atualizacao do documento de Pacotes e Representação Arquitetural | [Abdul hannan](https://github.com/hannanhunny01)|
 |27/07/2022 |1.3| Adcionando Documento de Caso do Uso | [Abdul hannan](https://github.com/hannanhunny01)|
 |05/09/2022 |1.5| Atualização do documento | [João Lucas](https://github.com/hackairos)|
+|15/09/2022 |1.6| atualizacao do documento  | [Abdul hannan](https://github.com/hannanhunny01)|
 
 
 ## Sumário
@@ -19,7 +20,7 @@
    2. [Escopo](#Escopo)
    3. [Configurações, Acrônimos e Abreviações](#Configurações)
    4. [Representação da arquitetura](#Representação)
-   5. [Diagrama de Caso de uso](#Caso])
+   5. [Diagrama de Caso de uso](#Diagrama de caso de uso)
    6. [Diagrama de Classes](#Diagrama de Classes)
    7. [Diagrama de Pacotes](#Diagrama de Pacotes)
 
@@ -53,44 +54,43 @@
 ### Front-end
    - ReactJs: É um conjunto de bibliotecas de código aberto seguro para a criação de UIs interativas de forma mais fácil. Toda lógica é escrita em JavaScript da Repassagem de dados ao longo da passagem de dados. Essa tecnologia foi escolhida por quantidade de conteúdo disponível na internet, para o treinamento e aprendizado da equipe, outro ponto positivo é o fórum de dúvidas acerca do assunto estar sempre a disposição.
    
-  ![React](../assets/images/react.png)
+  ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/react.png)
 ### Back-end
-  - React Express: React é uma biblioteca para a construção de interfaces de utilizador para a web e outras plataformas. Este guia abrange os aspetos fundamentais do Reagir necessários para construir grandes aplicações web.
+  - Express é uma estrutura de aplicativo da Web node js que fornece recursos amplos para a criação de aplicativos da Web e móveis. Ele é usado para criar um aplicativo Web de página única, de várias páginas e híbrido
 
- ![Rest](../assets/images/rest.png)
+ ![Rest](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/expressjs.png)
 
 ### Scrapy-selenium
    - Scrapy-selenium é um middleware que é usado em web scraping. scrapy não suporta a scraping dos sites modernos que usam estruturas javascript e esta é a razão pela qual esse middleware é usado com scrapy para crawl esses sites modernos. O Scrapy-selenium fornece as funcionalidades do selenium que ajudam no trabalho com sites javascript. Outra vantagem proporcionada por isso é o driver pelo qual também podemos ver o que está acontecendo nos bastidores. Como o selênium é uma ferramenta automatizada, ele também nos fornece como lidar com tags de entrada e scrap de acordo com o que você passa no campo de entrada.
    
- ![Diagrama de classes](../assets/images/scrapy.png)
+ ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/scrapy.png)
 
 
 ## Diagrama de caso de uso
 
 <div id='Caso'/>
-
-
- - Usuário(Aluno) do sistema que terá acesso, após a autenticação, tera a opção de receber o tipo de notificação que ele deseja receber.
+  - Usuário(Aluno) do sistema que terá acesso, após a autenticação, tera a opção de receber o tipo de notificação que ele deseja receber.
   
-  ![React](../assets/images/documento-de-casoUso.png)
+  ![React](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/documento-de-casoUso.png)
 
 
 
 ## Diagrama de Classes
 <div id='Diagrama de Classes'/>
-   - Essa é a primeira versão das classes no diagrama de classe do projeto Cebraspe-Tracker.
+   - Essa é a versão final das classes no diagrama de classe do projeto Cebraspe-Tracker.
   
-  ![Diagrama de classes](../assets/images/DiagramaDeClasses.png)
+  ![Diagrama de classes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/DiagramaDeClasses.png)
   
 
 
 ## Diagrama de Pacotes
 <div id='Diagrama de Pacotes'/>
-   - Essa é a primeira versão das classes no diagrama de Pacotes do projeto Cebraspe-Tracker.
+   - Essa é a  versão final do diagrama de Pacotes do projeto Cebraspe-Tracker.
   
-  ![Diagrama do Pacotes](../assets/images/DiagramaDePacotes.png)
-  ![Diagrama do Pacotes2](../assets/images/DiagramaDePacotes2.png)
-  ![Diagrama do Pacotes3](../assets/images/Diagrama_depacote_3.png)
+  ![Diagrama do Pacotes](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/DiagramdePacotesNovo.png)
+  ![Diagrama do Pacotes2](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/DiagramaDePacotes2.png)
+  ![Diagrama do Pacotes3](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/Diagrama_depacote_3-cortado.png)
+  ![Diagrama do Pacotes4](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/back-end.png)
   
 
     
