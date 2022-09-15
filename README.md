@@ -1,11 +1,10 @@
-[![BCH compliance](https://bettercodehub.com/edge/badge/HacKairos/Cebraspe-Tracker?branch=main)](https://bettercodehub.com/)
 <h1 align="center">
     Cebraspe Tracker
 </h1>
 
-<h4 align="center"> 
+<h2 align="center"> 
 	🚧  Cebraspe Tracker ♻️ Em progresso 🚀 🚧
-</h4>
+</h2>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -19,20 +18,21 @@
 </p>
 
 
-## 💻 Sobre o projeto
+## 💎 Sobre o projeto
 
 ♻️ Cebraspe Tracker - é uma forma de ajudar os estudantes a descobrirem se foram aprovados pelo processo seletivo do PAS.
 
+---
 
-Projeto desenvolvido durante o segundo semestre de 2022 por alunos da UNB .
+👨‍💻👩‍💻 Projeto desenvolvido durante o segundo semestre de 2022 por alunos da UNB .
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Alunos podem se cadastrar na plataforma web enviando:
-  - [x] Nome do aluno, email e whatsapp
-- [x] Escolas podem se cadastrar na plataforma
+- Alunos podem se cadastrar na plataforma web enviando:
+     - Nome do aluno, email e whatsapp
+- Escolas podem se cadastrar na plataforma
 
 ---
 
@@ -44,13 +44,32 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-### 🖥 Pagina Web 
+### 💻 Pagina Web 
 
+#### Home
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CebraspTracker" title="#CebraspeTracker" src="Assets/Prototipos/AltaFidelidade/PrototipoDashboard.png" width="600px">
-
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="Assets/Prototipos/Produto/Home.jpeg" width="600px">
 </p>
 
+#### Contato
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="Assets/Prototipos/Produto/Contato.jpeg" width="600px">
+</p>
+
+#### QuemSomos
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="Assets/Prototipos/Produto/QuemSomos.jpeg" width="600px">
+</p>
+
+#### Login
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="Assets/Prototipos/Produto/Login.jpeg" width="600px">
+</p>
+
+#### Cadastro
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="Assets/Prototipos/Produto/Cadastro.jpeg" width="600px">
+</p>
 ---
 
 ## 🚀 Como executar o projeto
@@ -153,12 +172,14 @@ Alunos que fazem parte do projeto 😎💦
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/.github/CONTRIBUTING.md)
 
 ---
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./.github/LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/LICENSE).
 
+## 🥇 Badges
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/HacKairos/Cebraspe-Tracker?branch=main)](https://bettercodehub.com/)

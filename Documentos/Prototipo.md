@@ -18,16 +18,20 @@ Neste documento estará armazenado informações acerca dos protótipos de baixa
 
   O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/file/rs895AnU1WtSaW2KDfVpxr/Cebrasp---Tracker), nele foi criado as premissas básicas do produto e as principais funcionalidades.
  
-![prototipo](../assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade2.png)
+![prototipo](../Assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade2.png)
 
 
-![prototipo](../assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade.png)
+![prototipo](../Assets/Prototipos/BaixaFidelidade/PrototipoBaixaFidelidade.png)
 
 ## Protótipo de Alta Fidelidade
 
   O protótipo de alta fidelidade foi feito o mais próximo possível da verdadeira representação gráfica do Site para projeto cebraspe crawler.
 
-O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/file/rs895AnU1WtSaW2KDfVpxr/Cebrasp---Tracker).
- 
-![prototipo](../assets/Prototipos/AltaFidelidade/Prototipo.png)
-![prototipo](../assets/Prototipos/AltaFidelidade/PrototipoDashboard.png)
+O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/file/T8CEXqD6yIEQRsMqMt1Svr/Ctracker?node-id=0%3A1).
+### Home
+![prototipo](../Assets/Prototipos/AltaFidelidade/Home.png)
+### Login
+![prototipo](../Assets/Prototipos/AltaFidelidade/Login.png)
+### Quem somos
+![prototipo](../Assets/Prototipos/AltaFidelidade/QuemSomos.png)
+
