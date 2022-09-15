@@ -5,30 +5,30 @@
 | Data       | Versão | Descrição                      | Autor(es)                                                  |
 | ---------- | ------ | ------------------------------ | ---------------------------------------------------------- |
 | 01/08/2022 | 0.1    | Primeira versão do documento | [João Lucas](https://github.com/HacKairos) |
+| 15/09/2022 | 0.2    | revisao do documento | [Abdul hannan](https://github.com/hannanhunny01) |
 
 ## Quadro geral
 
 ### No inicio do projeto 
 
-![Quadro Inicial](../assets/images/QuadroInicial.png)
+![Quadro Inicial](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/quadroDeConhecimentoInicialNovo.png)
 
 ### Atualmente
 
-![Quadro Final](../assets/images/QuadroFinal.png)
+![Quadro Final](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/QuadroDeConhecimentoAgoraNovo.png)
 
 ## Graficos Individuais
 
 ### Abdul Hannan
-![Abdul](../assets/images/Abdul.png)
+![Abdul](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/AbulhannanNovo_.png)
 
 ### Asafe de Souza
-![Asafe](../assets/images/Asafe.png)
+![Asafe](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/AsafeSouzaNovo_.png)
 
 ### Gabriel
-![Gabriel](../assets/images/Gabriel.png)
+![Gabriel](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/GabrielNovo.png)
 
 ### Matheus
-![Matheus](../assets/images/Matheus.png)
-
+![Matheus](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/MatheusHenrickNovo_.png)
 ### João Lucas
-![Joao](../assets/images/Joao.png)
+![Joao](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/JoaoLucasNovo_.png)
