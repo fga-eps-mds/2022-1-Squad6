@@ -6,7 +6,7 @@
 
 ## Apresentação da Identidade Visual
 
-![Logo](../assets/images/favicon.png)
+![Logo](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/favicon.png)
 
 ## Detalhamento e Justificativas
 
@@ -23,7 +23,7 @@ As fontes utilizadas na página serão:
 
 ### Paleta de cores
 
-![Logo](../assets/images/paleta.png)
+![Logo](https://github.com/fga-eps-mds/Cebraspe-Tracker/blob/main/Assets/images/paleta.png)
 
 
 
