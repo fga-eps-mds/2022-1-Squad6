@@ -66,4 +66,35 @@
 - Criar release do projeto
 
 
+
 ## Release 1
+
+# KanBan
+- Implementação e Construção dos Pipelines para Spider1
+- Criar Protótipo 2.0 
+- Criar os componentes do front end
+- Conectar os componentes
+- Implantação e Construção de Pipelines para Spider2 e Spider 3
+- implantação de scrapy Spiders usando ScrapyD e ScrapyD-Client 
+- Criação e implementação do componente NavBar
+- Criação e implementação do componente "SobreNos(About)"
+- Configuração de React Routes
+- Criar Component Login 
+- Criar Componente Registrar Usuario
+- Inicializar Backend ,Criar react App e Fazer conexão com Database
+- Implementar e Criar Modelo Do Usuario(Schema)
+- Criar Registration Api e testar usando Postman
+- Criar Api para login
+- Conectar Component Registration com Back+front
+- Conectar Component Login com Back+front
+- Extração e processamento dos dados(Email e Usuarios) Para Servico de Email
+- Implementação de servico para enviar mesagens com smtplib
+- agendamento de servico para mandar email usando Schedule
+- Revisao do Codigo
+- Revisao Dos Documentos
+- Implementar Dynamic Navbar
+- fazer routas protegidas
+- Criacao e integracao do Component Logout
+
+## Release 2
+
