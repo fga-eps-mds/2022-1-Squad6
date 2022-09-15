@@ -13,24 +13,23 @@
 
 ## <a name="1"> Épicos</a>
 
-#### EP01: Perfis
-Funcionalidades da aplicação ligadas á login & navegação.
+#### EP01: Perfil
+Funcionalidades da aplicação ligadas á login & cadastro.
 
 #### EP02: Banco de dados
 Cadastrar os nomes na base de dados, que serao procurados nas novas chamadas.
 
-#### EP03: Notícias
-Funcionalidades da aplicação ligadas ao gerenciamento de notícias e suas funcionalidades.
-
-#### EP04: Postagens
-Funcionalidades da aplicação ligadas ao gerenciamento de anúncios e suas funcionalidades.
-
-#### EP06: Notificação
+#### EP03: Notificação
 Funcionalidades comunicação entre a plataforma e os clientes.
 
-#### EP07: Navegação
+#### EP04: Navegação
 Funcionalidades da aplicação ligadas às funcionalidades que propiciam uma boa navegação no site.
+
+#### EP05: Comunicação
+Funcionalidade que permite o usuario a tirar duvidas com a plataforma.
 
 ## <a name="2"> Histórias de Usuário</a>
 
-<img src="https://user-images.githubusercontent.com/57872849/181761590-7215aae2-ac5e-4028-9baa-219008e4fc4b.png"/>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Product" title="#ProductBacklog" src="/../assets/images/EstoriasUsuario.png">
+</p>

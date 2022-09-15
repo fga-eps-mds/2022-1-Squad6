@@ -33,11 +33,30 @@ O layout da aplicação está disponível no Figma:
 
 ### 💻 Pagina Web 
 
+#### Home
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="CebraspTracker" title="#CebraspeTracker" src="assets/Prototipos/AltaFidelidade/PrototipoDashboard.png" width="600px">
-
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="assets/Prototipos/Produto/Home.jpeg" width="600px">
 </p>
 
+#### Contato
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="assets/Prototipos/Produto/Contato.jpeg" width="600px">
+</p>
+
+#### QuemSomos
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="assets/Prototipos/Produto/QuemSomos.jpeg" width="600px">
+</p>
+
+#### Login
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="assets/Prototipos/Produto/Login.jpeg" width="600px">
+</p>
+
+#### Cadastro
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="CebraspTracker" title="#CebraspeTracker" src="assets/Prototipos/Produto/Cadastro.jpeg" width="600px">
+</p>
 ---
 
 ## 🚀 Como executar o projeto

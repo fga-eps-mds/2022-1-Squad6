@@ -27,7 +27,11 @@ Neste documento estará armazenado informações acerca dos protótipos de baixa
 
   O protótipo de alta fidelidade foi feito o mais próximo possível da verdadeira representação gráfica do Site para projeto cebraspe crawler.
 
-O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/file/rs895AnU1WtSaW2KDfVpxr/Cebrasp---Tracker).
- 
-![prototipo](../assets/Prototipos/AltaFidelidade/Prototipo.png)
-![prototipo](../assets/Prototipos/AltaFidelidade/PrototipoDashboard.png)
+O protótipo a seguir foi desenvolvido no site [Figma](https://www.figma.com/file/T8CEXqD6yIEQRsMqMt1Svr/Ctracker?node-id=0%3A1).
+### Home
+![prototipo](../assets/Prototipos/AltaFidelidade/Home.png)
+### Login
+![prototipo](../assets/Prototipos/AltaFidelidade/Login.png)
+### Quem somos
+![prototipo](../assets/Prototipos/AltaFidelidade/QuemSomos.png)
+
