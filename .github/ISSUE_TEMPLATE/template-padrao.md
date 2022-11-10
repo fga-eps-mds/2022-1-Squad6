@@ -1,23 +1,11 @@
 ---
-name: Template Padrao
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: Nome da Issue
-about: Modelo de issue para as tarefas da sprint
-title: ''
-labels: ''
-assignees: ''
-
+Nome: Nome da Issue
+Sobre: Modelo de issue para as tarefas da sprint
+Responsaveis: Nome dos responsaveis
 ---
 
 # Descrição
-[Descrever brevemente os objetivos da issue]
+* Descrever brevemente os objetivos da issue
 
 # Tarefas
 - [ ] Tarefa 1
